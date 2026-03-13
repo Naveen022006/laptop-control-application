@@ -48,7 +48,7 @@ class MusicCommand(commands.Cog):
           2. Aggressively find, restore, and focus the window.
           3. Click center of window to ensure focus.
           4. Ctrl+F → type song → Enter to search.
-          5. Tab 3 times to reach the Top Result, then Enter to play.
+          5. Tab 2 times to reach the Top Result, then Enter to play.
         """
         import pygetwindow as gw
 
@@ -90,8 +90,8 @@ class MusicCommand(commands.Cog):
         # Step 7: Wait for results to load from Apple servers
         time.sleep(3)
 
-        # Step 8: Tab 3 times to highlight the Top Result (Song card), then Enter to open it
-        pyautogui.press("tab", presses=3, interval=0.2)
+        # Step 8: Tab 2 times to highlight the Top Result (Song card), then Enter to open it
+        pyautogui.press("tab", presses=2, interval=0.2)
         pyautogui.press("enter")
 
         # Step 9: Wait for the song/album page to fully load (shows the red ▶ Play button)
