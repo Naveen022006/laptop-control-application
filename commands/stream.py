@@ -4,6 +4,7 @@ import pyautogui
 import io
 import asyncio
 import time
+from PIL import Image
 
 class StreamCommand(commands.Cog):
     def __init__(self, bot):
@@ -14,6 +15,8 @@ class StreamCommand(commands.Cog):
         # Discord allows 5 edits per 5 seconds per message, so 1 frame per second is safe.
         self.update_interval = 1.0  
         self.last_update = 0
+        self.max_width = 960
+        self.jpeg_quality = 45
 
     @commands.command(name="stream_start", help="Starts a simulated live stream (updates 1 fps).")
     async def stream_start(self, ctx):
@@ -95,11 +98,20 @@ class StreamCommand(commands.Cog):
     def _sync_screenshot(self):
         """Synchronous part: take screenshot, save to bytesio buffer."""
         screenshot = pyautogui.screenshot()
+        screenshot = self._optimize_frame(screenshot)
         buffer = io.BytesIO()
-        # Using JPEG for smaller file sizes = much faster upload time
-        screenshot.save(buffer, format='JPEG', quality=65)
+        # Use a smaller JPEG to keep Discord uploads responsive.
+        screenshot.save(buffer, format='JPEG', quality=self.jpeg_quality, optimize=True)
         buffer.seek(0)
         return buffer
+
+    def _optimize_frame(self, screenshot):
+        """Resize the screenshot to reduce upload time while keeping aspect ratio."""
+        if screenshot.width <= self.max_width:
+            return screenshot
+
+        new_height = int((self.max_width / screenshot.width) * screenshot.height)
+        return screenshot.resize((self.max_width, new_height), Image.Resampling.LANCZOS)
 
     @stream_task.before_loop
     async def before_stream_task(self):
