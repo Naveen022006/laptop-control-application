@@ -1,0 +1,427 @@
+{
+  "info": {
+    "name": "Laptop Control API",
+    "description": "Remote Laptop Control System API Collection",
+    "version": "1.0.0",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Device Management",
+      "item": [
+        {
+          "name": "Register Device",
+          "request": {
+            "method": "POST",
+            "url": {
+              "raw": "{{base_url}}/devices/register",
+              "host": ["{{base_url}}"],
+              "path": ["devices", "register"]
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"device_id\": \"laptop-001\",\n  \"device_name\": \"My Laptop\",\n  \"device_type\": \"laptop\"\n}"
+            }
+          }
+        },
+        {
+          "name": "Get Device",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/devices/{{device_id}}",
+              "host": ["{{base_url}}"],
+              "path": ["devices", "{{device_id}}"]
+            },
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{api_token}}"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Activate Device",
+          "request": {
+            "method": "PUT",
+            "url": {
+              "raw": "{{base_url}}/devices/{{device_id}}/activate",
+              "host": ["{{base_url}}"],
+              "path": ["devices", "{{device_id}}", "activate"]
+            },
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{api_token}}"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Deactivate Device",
+          "request": {
+            "method": "PUT",
+            "url": {
+              "raw": "{{base_url}}/devices/{{device_id}}/deactivate",
+              "host": ["{{base_url}}"],
+              "path": ["devices", "{{device_id}}", "deactivate"]
+            },
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{api_token}}"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Delete Device",
+          "request": {
+            "method": "DELETE",
+            "url": {
+              "raw": "{{base_url}}/devices/{{device_id}}",
+              "host": ["{{base_url}}"],
+              "path": ["devices", "{{device_id}}"]
+            },
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{api_token}}"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Commands",
+      "item": [
+        {
+          "name": "Open Chrome",
+          "request": {
+            "method": "POST",
+            "url": {
+              "raw": "{{base_url}}/commands/execute/{{target_device_id}}",
+              "host": ["{{base_url}}"],
+              "path": ["commands", "execute", "{{target_device_id}}"]
+            },
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{api_token}}"
+              },
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"command_name\": \"open_chrome\",\n  \"command_params\": {\n    \"url\": \"https://google.com\"\n  }\n}"
+            }
+          }
+        },
+        {
+          "name": "Open WhatsApp",
+          "request": {
+            "method": "POST",
+            "url": {
+              "raw": "{{base_url}}/commands/execute/{{target_device_id}}",
+              "host": ["{{base_url}}"],
+              "path": ["commands", "execute", "{{target_device_id}}"]
+            },
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{api_token}}"
+              },
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"command_name\": \"open_whatsapp\"\n}"
+            }
+          }
+        },
+        {
+          "name": "Take Screenshot",
+          "request": {
+            "method": "POST",
+            "url": {
+              "raw": "{{base_url}}/commands/execute/{{target_device_id}}",
+              "host": ["{{base_url}}"],
+              "path": ["commands", "execute", "{{target_device_id}}"]
+            },
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{api_token}}"
+              },
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"command_name\": \"take_screenshot\"\n}"
+            }
+          }
+        },
+        {
+          "name": "Get System Info",
+          "request": {
+            "method": "POST",
+            "url": {
+              "raw": "{{base_url}}/commands/execute/{{target_device_id}}",
+              "host": ["{{base_url}}"],
+              "path": ["commands", "execute", "{{target_device_id}}"]
+            },
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{api_token}}"
+              },
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"command_name\": \"system_info\"\n}"
+            }
+          }
+        },
+        {
+          "name": "Shutdown",
+          "request": {
+            "method": "POST",
+            "url": {
+              "raw": "{{base_url}}/commands/execute/{{target_device_id}}",
+              "host": ["{{base_url}}"],
+              "path": ["commands", "execute", "{{target_device_id}}"]
+            },
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{api_token}}"
+              },
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"command_name\": \"shutdown\",\n  \"command_params\": {\n    \"delay\": 60\n  }\n}"
+            }
+          }
+        },
+        {
+          "name": "Restart",
+          "request": {
+            "method": "POST",
+            "url": {
+              "raw": "{{base_url}}/commands/execute/{{target_device_id}}",
+              "host": ["{{base_url}}"],
+              "path": ["commands", "execute", "{{target_device_id}}"]
+            },
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{api_token}}"
+              },
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"command_name\": \"restart\",\n  \"command_params\": {\n    \"delay\": 60\n  }\n}"
+            }
+          }
+        },
+        {
+          "name": "Get Command History",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/commands/history/{{target_device_id}}?limit=50",
+              "host": ["{{base_url}}"],
+              "path": ["commands", "history", "{{target_device_id}}"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "50"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{api_token}}"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Get Command Details",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/commands/{{command_id}}",
+              "host": ["{{base_url}}"],
+              "path": ["commands", "{{command_id}}"]
+            },
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{api_token}}"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "System Metrics",
+      "item": [
+        {
+          "name": "Record Metrics",
+          "request": {
+            "method": "POST",
+            "url": {
+              "raw": "{{base_url}}/metrics/",
+              "host": ["{{base_url}}"],
+              "path": ["metrics", ""]
+            },
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{api_token}}"
+              },
+              {
+                "key": "X-Device-ID",
+                "value": "{{device_id}}"
+              },
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"cpu_percent\": 45,\n  \"memory_percent\": 60,\n  \"disk_percent\": 70,\n  \"temperature\": 65,\n  \"battery_percent\": 85,\n  \"is_charging\": true\n}"
+            }
+          }
+        },
+        {
+          "name": "Get Latest Metrics",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/metrics/{{device_id}}/latest",
+              "host": ["{{base_url}}"],
+              "path": ["metrics", "{{device_id}}", "latest"]
+            },
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{api_token}}"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Get Metrics History",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/metrics/{{device_id}}/history?limit=100",
+              "host": ["{{base_url}}"],
+              "path": ["metrics", "{{device_id}}", "history"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "100"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{api_token}}"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Health & Info",
+      "item": [
+        {
+          "name": "Health Check",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/health",
+              "host": ["{{base_url}}"],
+              "path": ["health"]
+            }
+          }
+        },
+        {
+          "name": "API Info",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/",
+              "host": ["{{base_url}}"],
+              "path": [""]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://localhost:8000",
+      "type": "string"
+    },
+    {
+      "key": "api_token",
+      "value": "",
+      "type": "string"
+    },
+    {
+      "key": "device_id",
+      "value": "laptop-001",
+      "type": "string"
+    },
+    {
+      "key": "target_device_id",
+      "value": "laptop-001",
+      "type": "string"
+    },
+    {
+      "key": "command_id",
+      "value": "1",
+      "type": "string"
+    }
+  ]
+}

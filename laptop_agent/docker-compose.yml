@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  laptop-agent:
+    build: .
+    container_name: laptop-control-agent
+    environment:
+      - BACKEND_URL=${BACKEND_URL:-ws://localhost:8000}
+      - API_TOKEN=${API_TOKEN}
+      - DEVICE_ID=${DEVICE_ID:-laptop-001}
+      - DEVICE_NAME=${DEVICE_NAME:-My Laptop}
+      - METRICS_INTERVAL=30
+      - LOG_LEVEL=INFO
+    volumes:
+      - ./logs:/app/logs
+      - ./screenshots:/app/screenshots
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw  # For X11 display (Linux)
+    environment:
+      - DISPLAY=${DISPLAY}  # For GUI applications (Linux)
+    restart: unless-stopped
+    privileged: true  # Required for system commands
