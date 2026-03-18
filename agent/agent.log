@@ -1,0 +1,252 @@
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\Desktop\v2\laptop-control-system\agent\agent.py", line 6, in <module>
+    import websockets
+ModuleNotFoundError: No module named 'websockets'
+2026-03-18 14:57:48,235 - __main__ - INFO - Starting Laptop Control Agent: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 14:57:48,235 - __main__ - INFO - Connecting to ws://10.0.5.134:8000/ws/device/7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 14:57:48,268 - __main__ - INFO - Connected to backend: ws://10.0.5.134:8000/ws/device/7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 14:58:00,448 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 14:58:30,464 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 14:59:00,488 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 14:59:30,482 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:00:00,487 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:00:30,504 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:01:00,517 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:01:30,530 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:02:00,530 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:02:30,540 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:02:50,341 - __main__ - WARNING - Connection closed by server
+2026-03-18 15:02:55,348 - __main__ - INFO - Connecting to ws://10.0.5.134:8000/ws/device/7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:02:57,394 - __main__ - ERROR - Connection failed: [WinError 1225] The remote computer refused the network connection
+2026-03-18 15:03:02,395 - __main__ - INFO - Connecting to ws://10.0.5.134:8000/ws/device/7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:03:04,440 - __main__ - ERROR - Connection failed: [WinError 1225] The remote computer refused the network connection
+2026-03-18 15:03:09,448 - __main__ - INFO - Connecting to ws://10.0.5.134:8000/ws/device/7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:03:09,471 - __main__ - INFO - Connected to backend: ws://10.0.5.134:8000/ws/device/7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:03:35,531 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:04:05,533 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:04:35,551 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:05:05,553 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:05:35,548 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:06:05,552 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:06:35,556 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:07:05,566 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:07:35,584 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:08:05,615 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:08:35,620 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:09:05,633 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:09:35,662 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:10:05,682 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:10:35,676 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:11:05,687 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:11:35,706 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:12:05,713 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:12:35,738 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:13:05,743 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:13:35,768 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:14:05,771 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:14:35,801 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:15:05,812 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:15:35,811 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:16:05,787 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:16:35,809 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:17:05,800 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:17:35,816 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:18:05,804 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:18:35,810 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:19:05,804 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:19:35,832 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:20:05,819 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:20:35,845 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:21:05,857 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:21:35,845 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:22:05,863 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:22:35,868 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:23:05,882 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:23:35,896 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:24:05,900 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:24:35,908 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:25:05,885 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:25:35,884 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:26:05,904 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:26:35,912 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:27:05,927 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:27:35,942 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:28:05,955 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:28:35,970 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:29:05,976 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:29:35,992 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:30:06,007 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:30:36,033 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:31:06,039 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:31:36,059 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:32:06,056 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:32:36,056 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:33:06,039 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:33:36,061 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:34:06,081 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:34:36,084 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:35:06,107 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:35:36,116 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:36:06,127 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:36:36,120 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:37:06,119 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:37:36,118 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:38:06,124 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:38:36,141 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:39:06,145 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:39:36,149 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:40:06,174 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:40:36,172 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:41:06,171 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:41:36,188 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:42:06,196 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:42:36,202 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:43:06,215 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:43:36,235 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:44:06,227 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:44:36,229 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:45:06,226 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:45:36,224 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:46:06,228 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:46:36,240 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:47:06,231 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:47:36,242 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:48:06,255 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:48:36,255 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:49:06,253 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:49:36,259 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:50:06,272 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:50:36,283 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:51:06,303 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:51:36,414 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:52:06,442 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:52:36,444 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:53:06,451 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:53:36,454 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:54:06,445 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:54:36,465 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:54:55,935 - __main__ - WARNING - Connection closed by server
+2026-03-18 15:55:00,943 - __main__ - INFO - Connecting to ws://10.0.5.134:8000/ws/device/7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:55:02,999 - __main__ - ERROR - Connection failed: [WinError 1225] The remote computer refused the network connection
+2026-03-18 15:55:08,000 - __main__ - INFO - Connecting to ws://10.0.5.134:8000/ws/device/7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:55:10,055 - __main__ - ERROR - Connection failed: [WinError 1225] The remote computer refused the network connection
+2026-03-18 15:55:15,057 - __main__ - INFO - Connecting to ws://10.0.5.134:8000/ws/device/7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:55:17,097 - __main__ - ERROR - Connection failed: [WinError 1225] The remote computer refused the network connection
+2026-03-18 15:55:22,102 - __main__ - INFO - Connecting to ws://10.0.5.134:8000/ws/device/7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:55:24,146 - __main__ - ERROR - Connection failed: [WinError 1225] The remote computer refused the network connection
+2026-03-18 15:55:29,148 - __main__ - INFO - Connecting to ws://10.0.5.134:8000/ws/device/7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:55:30,206 - __main__ - INFO - Connected to backend: ws://10.0.5.134:8000/ws/device/7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:55:59,964 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:56:07,681 - __main__ - INFO - Received message type: command
+2026-03-18 15:56:07,681 - __main__ - INFO - Executing command: open_chrome (ID: 558d3e6a-21d4-4a20-89f2-8e0026fe52d8)
+2026-03-18 15:56:07,681 - command_executor - INFO - Executing command: open_chrome
+2026-03-18 15:56:07,694 - __main__ - INFO - Command executed successfully: open_chrome (558d3e6a-21d4-4a20-89f2-8e0026fe52d8)
+2026-03-18 15:56:16,401 - __main__ - INFO - Received message type: command
+2026-03-18 15:56:16,401 - __main__ - INFO - Executing command: open_whatsapp_web (ID: a1d25eb4-0fd6-4607-bd8a-af00d427c1d6)
+2026-03-18 15:56:16,401 - command_executor - INFO - Executing command: open_whatsapp_web
+2026-03-18 15:56:16,409 - __main__ - INFO - Command executed successfully: open_whatsapp_web (a1d25eb4-0fd6-4607-bd8a-af00d427c1d6)
+2026-03-18 15:56:29,963 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:56:33,332 - __main__ - INFO - Received message type: command
+2026-03-18 15:56:33,332 - __main__ - INFO - Executing command: take_screenshot (ID: a2261d83-6168-40ee-a01e-51214720ea9f)
+2026-03-18 15:56:33,332 - command_executor - INFO - Executing command: take_screenshot
+2026-03-18 15:56:33,537 - __main__ - INFO - Command executed successfully: take_screenshot (a2261d83-6168-40ee-a01e-51214720ea9f)
+2026-03-18 15:56:40,588 - __main__ - INFO - Received message type: command
+2026-03-18 15:56:40,588 - __main__ - INFO - Executing command: execute (ID: 8f574b56-6cb4-4b16-98a9-709d0830a5f3)
+2026-03-18 15:56:40,588 - command_executor - INFO - Executing command: execute
+2026-03-18 15:56:40,588 - __main__ - ERROR - Command execution failed: execute (8f574b56-6cb4-4b16-98a9-709d0830a5f3) - Unknown command type: execute
+2026-03-18 15:56:43,497 - __main__ - INFO - Received message type: command
+2026-03-18 15:56:43,497 - __main__ - INFO - Executing command: lock_screen (ID: 21c03f57-712f-475d-b41c-cec5bc202818)
+2026-03-18 15:56:43,497 - command_executor - INFO - Executing command: lock_screen
+2026-03-18 15:56:43,525 - __main__ - INFO - Command executed successfully: lock_screen (21c03f57-712f-475d-b41c-cec5bc202818)
+2026-03-18 15:56:59,981 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:57:09,757 - __main__ - INFO - Received message type: command
+2026-03-18 15:57:09,757 - __main__ - INFO - Executing command: open_whatsapp_web (ID: b4467eb4-e683-4d53-b267-bd20670eaea8)
+2026-03-18 15:57:09,757 - command_executor - INFO - Executing command: open_whatsapp_web
+2026-03-18 15:57:09,759 - __main__ - INFO - Command executed successfully: open_whatsapp_web (b4467eb4-e683-4d53-b267-bd20670eaea8)
+2026-03-18 15:57:29,997 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:57:59,999 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:58:30,000 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:59:00,019 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:59:30,031 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 15:59:50,841 - __main__ - INFO - Received message type: command
+2026-03-18 15:59:50,842 - __main__ - INFO - Executing command: open_chrome (ID: 96c11542-8725-4437-b4b4-725bda8078d7)
+2026-03-18 15:59:50,842 - command_executor - INFO - Executing command: open_chrome
+2026-03-18 15:59:50,850 - __main__ - INFO - Command executed successfully: open_chrome (96c11542-8725-4437-b4b4-725bda8078d7)
+2026-03-18 16:00:00,048 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:00:28,958 - __main__ - INFO - Received message type: command
+2026-03-18 16:00:28,959 - __main__ - INFO - Executing command: open_chrome (ID: eae41b3d-0559-45c8-a0ef-96c788e39c93)
+2026-03-18 16:00:28,959 - command_executor - INFO - Executing command: open_chrome
+2026-03-18 16:00:28,960 - __main__ - INFO - Command executed successfully: open_chrome (eae41b3d-0559-45c8-a0ef-96c788e39c93)
+2026-03-18 16:00:30,062 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:00:33,260 - __main__ - INFO - Received message type: command
+2026-03-18 16:00:33,260 - __main__ - INFO - Executing command: take_screenshot (ID: 30b19c09-ba25-4b52-ab90-3bede8d5e6fb)
+2026-03-18 16:00:33,260 - command_executor - INFO - Executing command: take_screenshot
+2026-03-18 16:00:33,405 - __main__ - INFO - Command executed successfully: take_screenshot (30b19c09-ba25-4b52-ab90-3bede8d5e6fb)
+2026-03-18 16:01:00,075 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:01:30,099 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:02:00,095 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:02:28,015 - __main__ - INFO - Received message type: command
+2026-03-18 16:02:28,015 - __main__ - INFO - Executing command: open_chrome (ID: c6da9e86-dfde-437b-8607-646ed2cdc355)
+2026-03-18 16:02:28,015 - command_executor - INFO - Executing command: open_chrome
+2026-03-18 16:02:28,018 - __main__ - INFO - Command executed successfully: open_chrome (c6da9e86-dfde-437b-8607-646ed2cdc355)
+2026-03-18 16:02:30,108 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:03:00,124 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:03:30,144 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:04:00,160 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:04:30,177 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:05:00,192 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:05:30,189 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:06:00,176 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:06:30,192 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:07:00,196 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:07:30,206 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:08:00,210 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:08:30,242 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:09:00,270 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:09:05,499 - __main__ - INFO - Received message type: command
+2026-03-18 16:09:05,499 - __main__ - INFO - Executing command: open_chrome (ID: 7b5f69b2-5cbc-49ae-ab23-fbb2ff9db801)
+2026-03-18 16:09:05,499 - command_executor - INFO - Executing command: open_chrome
+2026-03-18 16:09:05,503 - __main__ - INFO - Command executed successfully: open_chrome (7b5f69b2-5cbc-49ae-ab23-fbb2ff9db801)
+2026-03-18 16:09:16,847 - __main__ - INFO - Received message type: command
+2026-03-18 16:09:16,847 - __main__ - INFO - Executing command: open_whatsapp_web (ID: eb6f863a-eec0-4e81-9d99-622c14aa1367)
+2026-03-18 16:09:16,848 - command_executor - INFO - Executing command: open_whatsapp_web
+2026-03-18 16:09:16,858 - __main__ - INFO - Command executed successfully: open_whatsapp_web (eb6f863a-eec0-4e81-9d99-622c14aa1367)
+2026-03-18 16:09:23,120 - __main__ - INFO - Received message type: command
+2026-03-18 16:09:23,121 - __main__ - INFO - Executing command: open_chrome (ID: 8375340c-a1bf-4a03-8887-dd0caa011321)
+2026-03-18 16:09:23,121 - command_executor - INFO - Executing command: open_chrome
+2026-03-18 16:09:23,124 - __main__ - INFO - Command executed successfully: open_chrome (8375340c-a1bf-4a03-8887-dd0caa011321)
+2026-03-18 16:09:30,262 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:10:00,278 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:10:30,290 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:11:00,383 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:11:30,405 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:12:00,411 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:12:30,416 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:13:00,434 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:13:30,445 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:14:00,450 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:14:30,451 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:15:00,463 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:15:30,490 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:16:00,493 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:16:30,515 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:17:00,523 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:17:30,534 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:18:00,545 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:18:30,551 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:19:00,567 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:19:30,576 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:20:00,581 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:20:30,586 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:21:00,615 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:21:30,643 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:22:00,651 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:22:30,665 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:23:00,683 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:23:30,701 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:24:00,710 - __main__ - INFO - Received message type: heartbeat
+2026-03-18 16:24:21,836 - __main__ - INFO - Received message type: command
+2026-03-18 16:24:21,836 - __main__ - INFO - Executing command: open_chrome (ID: b9788cf2-51b7-4fe7-a774-0250162e682e)
+2026-03-18 16:24:21,836 - command_executor - INFO - Executing command: open_chrome
+2026-03-18 16:24:21,838 - __main__ - INFO - Command executed successfully: open_chrome (b9788cf2-51b7-4fe7-a774-0250162e682e)
+2026-03-18 16:24:30,719 - __main__ - INFO - Received message type: heartbeat

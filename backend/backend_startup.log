@@ -1,0 +1,239 @@
+INFO:     Started server process [28348]
+INFO:     Waiting for application startup.
+2026-03-18 14:50:30,283 - app.main - INFO - Application started
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:54041 - "GET / HTTP/1.1" 200 OK
+2026-03-18 14:50:42,284 - app.routes.auth - INFO - Test endpoint called
+INFO:     127.0.0.1:54050 - "GET /auth/test HTTP/1.1" 200 OK
+2026-03-18 14:50:47,176 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 14:50:47,359 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 14:50:47,360 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 14:50:47,360 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 14:50:47,360 - app.routes.auth - INFO - Token created successfully
+2026-03-18 14:50:47,360 - app.routes.auth - INFO - Returning login response
+INFO:     127.0.0.1:54055 - "POST /auth/login HTTP/1.1" 200 OK
+2026-03-18 14:50:57,581 - app.routes.auth - INFO - Login attempt for user: invalid_user
+2026-03-18 14:50:57,582 - app.services.auth_service - WARNING - Failed authentication attempt for: invalid_user
+2026-03-18 14:50:57,582 - app.routes.auth - INFO - Auth result: None
+2026-03-18 14:50:57,582 - app.routes.auth - ERROR - HTTPException raised in login
+INFO:     127.0.0.1:54064 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:63017 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59155 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59157 - "GET / HTTP/1.1" 200 OK
+2026-03-18 14:51:21,039 - app.routes.auth - INFO - Test endpoint called
+INFO:     127.0.0.1:59161 - "GET /auth/test HTTP/1.1" 200 OK
+2026-03-18 14:51:21,291 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 14:51:21,464 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 14:51:21,464 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 14:51:21,464 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 14:51:21,464 - app.routes.auth - INFO - Token created successfully
+2026-03-18 14:51:21,464 - app.routes.auth - INFO - Returning login response
+INFO:     127.0.0.1:59163 - "POST /auth/login HTTP/1.1" 200 OK
+2026-03-18 14:51:21,775 - app.routes.auth - INFO - Login attempt for user: invalid_user
+2026-03-18 14:51:21,776 - app.services.auth_service - WARNING - Failed authentication attempt for: invalid_user
+2026-03-18 14:51:21,776 - app.routes.auth - INFO - Auth result: None
+2026-03-18 14:51:21,776 - app.routes.auth - ERROR - HTTPException raised in login
+INFO:     127.0.0.1:59165 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+2026-03-18 14:52:07,123 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 14:52:07,295 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 14:52:07,295 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 14:52:07,295 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 14:52:07,295 - app.routes.auth - INFO - Token created successfully
+2026-03-18 14:52:07,295 - app.routes.auth - INFO - Returning login response
+INFO:     10.0.5.134:58504 - "POST /auth/login HTTP/1.1" 200 OK
+2026-03-18 14:52:35,381 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 14:52:35,617 - app.services.auth_service - WARNING - Failed authentication attempt for: naveen
+2026-03-18 14:52:35,617 - app.routes.auth - INFO - Auth result: None
+2026-03-18 14:52:35,617 - app.routes.auth - ERROR - HTTPException raised in login
+INFO:     10.0.5.134:55160 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+INFO:     10.0.5.134:65354 - "GET /auth/login HTTP/1.1" 405 Method Not Allowed
+INFO:     10.0.5.134:65354 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+2026-03-18 14:54:04,877 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 14:54:05,199 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 14:54:05,199 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 14:54:05,199 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 14:54:05,199 - app.routes.auth - INFO - Token created successfully
+2026-03-18 14:54:05,199 - app.routes.auth - INFO - Returning login response
+INFO:     10.0.5.134:62418 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     10.0.5.134:62420 - "GET /devices/ HTTP/1.1" 200 OK
+INFO:     10.0.5.134:62419 - "GET /devices/ HTTP/1.1" 200 OK
+INFO:     10.0.5.134:62447 - "POST /devices/register HTTP/1.1" 400 Bad Request
+2026-03-18 14:54:36,324 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 14:54:36,589 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 14:54:36,589 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 14:54:36,589 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 14:54:36,589 - app.routes.auth - INFO - Token created successfully
+2026-03-18 14:54:36,589 - app.routes.auth - INFO - Returning login response
+INFO:     10.0.5.134:62453 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     10.0.5.134:62454 - "GET /devices/ HTTP/1.1" 200 OK
+INFO:     10.0.5.134:62455 - "GET /devices/ HTTP/1.1" 200 OK
+INFO:     10.0.5.134:55504 - "GET /health HTTP/1.1" 200 OK
+DEBUG:    = connection is CONNECTING
+DEBUG:    < GET /ws/device/7675992a-e0fd-420e-bb85-3620c5ac456f HTTP/1.1
+DEBUG:    < host: 10.0.5.134:8000
+DEBUG:    < upgrade: websocket
+DEBUG:    < connection: Upgrade
+DEBUG:    < sec-websocket-key: 9MiF0tr4h/HW975noL66nQ==
+DEBUG:    < sec-websocket-version: 13
+DEBUG:    < sec-websocket-extensions: permessage-deflate; client_max_window_bits
+DEBUG:    < user-agent: Python/3.10 websockets/16.0
+INFO:     ('10.0.5.134', 55626) - "WebSocket /ws/device/7675992a-e0fd-420e-bb85-3620c5ac456f" [accepted]
+2026-03-18 14:57:48,258 - app.services.websocket_manager - INFO - Device connected: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 14:57:48,267 - app.services.device_service - INFO - Device status updated: 7675992a-e0fd-420e-bb85-3620c5ac456f - Status: online
+DEBUG:    > HTTP/1.1 101 Switching Protocols
+DEBUG:    > Upgrade: websocket
+DEBUG:    > Connection: Upgrade
+DEBUG:    > Sec-WebSocket-Accept: 4pkm13Zc1CMYDnOgeomzMfNmSeI=
+DEBUG:    > Sec-WebSocket-Extensions: permessage-deflate
+DEBUG:    > date: Wed, 18 Mar 2026 09:27:47 GMT
+DEBUG:    > server: uvicorn
+INFO:     connection open
+DEBUG:    = connection is OPEN
+DEBUG:    > TEXT '{"type":"heartbeat","timestamp":"2026-03-18T09:28:00.447311"}' [61 bytes]
+2026-03-18 14:58:00,448 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+DEBUG:    < TEXT '{"type": "heartbeat", "device_id": "7675992a-e0...03-18T09:28:00.449311"}' [117 bytes]
+2026-03-18 14:58:00,449 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+DEBUG:    % sending keepalive ping
+DEBUG:    > PING ef 6e 34 c1 [binary, 4 bytes]
+DEBUG:    < PING 9f 23 0c 4a [binary, 4 bytes]
+DEBUG:    > PONG 9f 23 0c 4a [binary, 4 bytes]
+DEBUG:    < PONG ef 6e 34 c1 [binary, 4 bytes]
+DEBUG:    % received keepalive pong
+INFO:     10.0.5.134:57901 - "GET /devices/ HTTP/1.1" 200 OK
+DEBUG:    % sending keepalive ping
+DEBUG:    > PING 19 18 81 3b [binary, 4 bytes]
+DEBUG:    < PING 2d 2d 58 c5 [binary, 4 bytes]
+DEBUG:    > PONG 2d 2d 58 c5 [binary, 4 bytes]
+DEBUG:    < PONG 19 18 81 3b [binary, 4 bytes]
+DEBUG:    % received keepalive pong
+DEBUG:    > TEXT '{"type":"heartbeat","timestamp":"2026-03-18T09:28:30.463105"}' [61 bytes]
+2026-03-18 14:58:30,464 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+DEBUG:    < TEXT '{"type": "heartbeat", "device_id": "7675992a-e0...03-18T09:28:30.464118"}' [117 bytes]
+2026-03-18 14:58:30,465 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+DEBUG:    % sending keepalive ping
+DEBUG:    > PING 84 e7 71 f6 [binary, 4 bytes]
+DEBUG:    < PING 27 50 e3 c2 [binary, 4 bytes]
+DEBUG:    > PONG 27 50 e3 c2 [binary, 4 bytes]
+DEBUG:    < PONG 84 e7 71 f6 [binary, 4 bytes]
+DEBUG:    % received keepalive pong
+DEBUG:    > TEXT '{"type":"heartbeat","timestamp":"2026-03-18T09:29:00.487973"}' [61 bytes]
+2026-03-18 14:59:00,488 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+DEBUG:    < TEXT '{"type": "heartbeat", "device_id": "7675992a-e0...03-18T09:29:00.488975"}' [117 bytes]
+2026-03-18 14:59:00,489 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+DEBUG:    % sending keepalive ping
+DEBUG:    > PING ea 42 00 9b [binary, 4 bytes]
+DEBUG:    < PING e0 ae d1 8d [binary, 4 bytes]
+DEBUG:    > PONG e0 ae d1 8d [binary, 4 bytes]
+DEBUG:    < PONG ea 42 00 9b [binary, 4 bytes]
+DEBUG:    % received keepalive pong
+DEBUG:    % sending keepalive ping
+DEBUG:    > PING ee 53 a0 46 [binary, 4 bytes]
+DEBUG:    < PING 2a 21 72 ce [binary, 4 bytes]
+DEBUG:    > PONG 2a 21 72 ce [binary, 4 bytes]
+DEBUG:    < PONG ee 53 a0 46 [binary, 4 bytes]
+DEBUG:    % received keepalive pong
+DEBUG:    > TEXT '{"type":"heartbeat","timestamp":"2026-03-18T09:29:30.481208"}' [61 bytes]
+2026-03-18 14:59:30,482 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+DEBUG:    < TEXT '{"type": "heartbeat", "device_id": "7675992a-e0...03-18T09:29:30.482207"}' [117 bytes]
+2026-03-18 14:59:30,483 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+DEBUG:    < PING 74 8a 72 1b [binary, 4 bytes]
+DEBUG:    > PONG 74 8a 72 1b [binary, 4 bytes]
+DEBUG:    % sending keepalive ping
+DEBUG:    > PING e7 59 de 63 [binary, 4 bytes]
+DEBUG:    < PONG e7 59 de 63 [binary, 4 bytes]
+DEBUG:    % received keepalive pong
+DEBUG:    > TEXT '{"type":"heartbeat","timestamp":"2026-03-18T09:30:00.486828"}' [61 bytes]
+2026-03-18 15:00:00,487 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+DEBUG:    < TEXT '{"type": "heartbeat", "device_id": "7675992a-e0...03-18T09:30:00.487826"}' [117 bytes]
+2026-03-18 15:00:00,488 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:00:08,117 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 15:00:08,285 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 15:00:08,285 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 15:00:08,285 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:00:08,285 - app.routes.auth - INFO - Token created successfully
+2026-03-18 15:00:08,285 - app.routes.auth - INFO - Returning login response
+INFO:     10.0.5.134:57608 - "POST /auth/login HTTP/1.1" 200 OK
+DEBUG:    % sending keepalive ping
+DEBUG:    > PING 20 5e ac 23 [binary, 4 bytes]
+DEBUG:    < PONG 20 5e ac 23 [binary, 4 bytes]
+DEBUG:    < PING 7a 12 7c f6 [binary, 4 bytes]
+DEBUG:    > PONG 7a 12 7c f6 [binary, 4 bytes]
+DEBUG:    % received keepalive pong
+INFO:     10.0.5.134:57609 - "GET /devices/ HTTP/1.1" 200 OK
+DEBUG:    % sending keepalive ping
+DEBUG:    > PING e3 3a ba 8d [binary, 4 bytes]
+DEBUG:    < PONG e3 3a ba 8d [binary, 4 bytes]
+DEBUG:    % received keepalive pong
+DEBUG:    < PING 60 36 dd fe [binary, 4 bytes]
+DEBUG:    > PONG 60 36 dd fe [binary, 4 bytes]
+DEBUG:    > TEXT '{"type":"heartbeat","timestamp":"2026-03-18T09:30:30.504181"}' [61 bytes]
+2026-03-18 15:00:30,504 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+DEBUG:    < TEXT '{"type": "heartbeat", "device_id": "7675992a-e0...03-18T09:30:30.504686"}' [117 bytes]
+2026-03-18 15:00:30,505 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+DEBUG:    % sending keepalive ping
+DEBUG:    > PING 30 9d 05 80 [binary, 4 bytes]
+DEBUG:    < PING 6f 91 76 dd [binary, 4 bytes]
+DEBUG:    > PONG 6f 91 76 dd [binary, 4 bytes]
+DEBUG:    < PONG 30 9d 05 80 [binary, 4 bytes]
+DEBUG:    % received keepalive pong
+DEBUG:    > TEXT '{"type":"heartbeat","timestamp":"2026-03-18T09:31:00.515328"}' [61 bytes]
+2026-03-18 15:01:00,516 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+DEBUG:    < TEXT '{"type": "heartbeat", "device_id": "7675992a-e0...03-18T09:31:00.517332"}' [117 bytes]
+2026-03-18 15:01:00,518 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+DEBUG:    < PING 49 3c 78 f8 [binary, 4 bytes]
+DEBUG:    > PONG 49 3c 78 f8 [binary, 4 bytes]
+DEBUG:    % sending keepalive ping
+DEBUG:    > PING 97 96 a9 f9 [binary, 4 bytes]
+DEBUG:    < PONG 97 96 a9 f9 [binary, 4 bytes]
+DEBUG:    % received keepalive pong
+2026-03-18 15:01:10,145 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 15:01:10,314 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 15:01:10,314 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 15:01:10,314 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:01:10,315 - app.routes.auth - INFO - Token created successfully
+2026-03-18 15:01:10,315 - app.routes.auth - INFO - Returning login response
+INFO:     10.0.5.134:59953 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     10.0.5.134:59954 - "GET /devices/ HTTP/1.1" 200 OK
+DEBUG:    % sending keepalive ping
+DEBUG:    > PING '\u0123\x1f ' [text, 4 bytes]
+DEBUG:    < PING 46 8f e4 25 [binary, 4 bytes]
+DEBUG:    > PONG 46 8f e4 25 [binary, 4 bytes]
+DEBUG:    < PONG '\u0123\x1f ' [text, 4 bytes]
+DEBUG:    % received keepalive pong
+DEBUG:    > TEXT '{"type":"heartbeat","timestamp":"2026-03-18T09:31:30.529716"}' [61 bytes]
+2026-03-18 15:01:30,529 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+DEBUG:    < TEXT '{"type": "heartbeat", "device_id": "7675992a-e0...03-18T09:31:30.530713"}' [117 bytes]
+2026-03-18 15:01:30,530 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+DEBUG:    % sending keepalive ping
+DEBUG:    > PING e5 2e 71 27 [binary, 4 bytes]
+DEBUG:    < PONG e5 2e 71 27 [binary, 4 bytes]
+DEBUG:    % received keepalive pong
+DEBUG:    < PING 92 cb c2 11 [binary, 4 bytes]
+DEBUG:    > PONG 92 cb c2 11 [binary, 4 bytes]
+DEBUG:    > TEXT '{"type":"heartbeat","timestamp":"2026-03-18T09:32:00.530947"}' [61 bytes]
+2026-03-18 15:02:00,530 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+DEBUG:    < TEXT '{"type": "heartbeat", "device_id": "7675992a-e0...03-18T09:32:00.531944"}' [117 bytes]
+2026-03-18 15:02:00,531 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+DEBUG:    % sending keepalive ping
+DEBUG:    > PING 91 f0 89 e0 [binary, 4 bytes]
+DEBUG:    < PING 1a 96 89 a8 [binary, 4 bytes]
+DEBUG:    > PONG 1a 96 89 a8 [binary, 4 bytes]
+DEBUG:    < PONG 91 f0 89 e0 [binary, 4 bytes]
+DEBUG:    % received keepalive pong
+DEBUG:    < PING 33 70 bd 25 [binary, 4 bytes]
+DEBUG:    > PONG 33 70 bd 25 [binary, 4 bytes]
+DEBUG:    % sending keepalive ping
+DEBUG:    > PING 99 6c 5d e8 [binary, 4 bytes]
+DEBUG:    < PONG 99 6c 5d e8 [binary, 4 bytes]
+DEBUG:    % received keepalive pong
+DEBUG:    > TEXT '{"type":"heartbeat","timestamp":"2026-03-18T09:32:30.540889"}' [61 bytes]
+2026-03-18 15:02:30,540 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+DEBUG:    < TEXT '{"type": "heartbeat", "device_id": "7675992a-e0...03-18T09:32:30.540889"}' [117 bytes]
+2026-03-18 15:02:30,541 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+DEBUG:    % sending keepalive ping
+DEBUG:    > PING c0 bc 36 32 [binary, 4 bytes]
+DEBUG:    < PING 22 ce c3 99 [binary, 4 bytes]
+DEBUG:    > PONG 22 ce c3 99 [binary, 4 bytes]
+DEBUG:    < PONG c0 bc 36 32 [binary, 4 bytes]
+DEBUG:    % received keepalive pong

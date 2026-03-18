@@ -7,6 +7,7 @@ from app.database import get_db
 from app.schemas import DeviceRegister, DeviceResponse, DeviceStatusUpdate
 from app.services import DeviceService
 from app.models import DeviceStatus
+from app.utils.auth import get_current_user_id
 from typing import List
 
 router = APIRouter(prefix="/devices", tags=["Devices"])
@@ -16,7 +17,7 @@ router = APIRouter(prefix="/devices", tags=["Devices"])
 def register_device(
     device_data: DeviceRegister,
     db: Session = Depends(get_db),
-    current_user_id: str = Depends(lambda: "user_id")
+    current_user_id: str = Depends(get_current_user_id)
 ):
     """Register a new device"""
     try:
@@ -39,7 +40,7 @@ def register_device(
 @router.get("/", response_model=List[DeviceResponse])
 def list_devices(
     db: Session = Depends(get_db),
-    current_user_id: str = Depends(lambda: "user_id")
+    current_user_id: str = Depends(get_current_user_id)
 ):
     """Get all devices for current user"""
     devices = DeviceService.get_user_devices(db, current_user_id)
@@ -50,7 +51,7 @@ def list_devices(
 def get_device(
     device_id: str,
     db: Session = Depends(get_db),
-    current_user_id: str = Depends(lambda: "user_id")
+    current_user_id: str = Depends(get_current_user_id)
 ):
     """Get device details"""
     device = DeviceService.get_device_by_device_id(db, device_id)
@@ -76,7 +77,7 @@ def update_device_status(
     device_id: str,
     status_update: DeviceStatusUpdate,
     db: Session = Depends(get_db),
-    current_user_id: str = Depends(lambda: "user_id")
+    current_user_id: str = Depends(get_current_user_id)
 ):
     """Update device status"""
     device = DeviceService.get_device_by_device_id(db, device_id)
@@ -112,7 +113,7 @@ def update_device_status(
 def get_device_stats(
     device_id: str,
     db: Session = Depends(get_db),
-    current_user_id: str = Depends(lambda: "user_id")
+    current_user_id: str = Depends(get_current_user_id)
 ):
     """Get device statistics"""
     device = DeviceService.get_device_by_device_id(db, device_id)
@@ -137,7 +138,7 @@ def get_device_stats(
 def delete_device(
     device_id: str,
     db: Session = Depends(get_db),
-    current_user_id: str = Depends(lambda: "user_id")
+    current_user_id: str = Depends(get_current_user_id)
 ):
     """Delete a device"""
     device = DeviceService.get_device_by_device_id(db, device_id)

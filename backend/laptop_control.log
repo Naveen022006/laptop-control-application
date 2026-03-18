@@ -1,0 +1,1125 @@
+2026-03-18 11:14:34,398 - app.main - INFO - Application started
+2026-03-18 11:25:58,928 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:27:22,589 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:27:31,950 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:27:38,708 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:28:28,410 - app.services.auth_service - WARNING - Failed authentication attempt for: naveen
+2026-03-18 11:28:33,400 - app.services.auth_service - WARNING - Failed authentication attempt for: 
+2026-03-18 11:28:48,346 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:33:47,006 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:34:00,455 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:34:14,288 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:34:15,131 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:34:15,665 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:34:16,081 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:34:16,250 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:34:16,399 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:34:26,350 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:36:00,994 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:36:52,042 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:36:59,894 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:37:17,753 - app.main - INFO - Application started
+2026-03-18 11:37:27,239 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:37:58,705 - app.main - INFO - Application started
+2026-03-18 11:38:01,970 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:38:02,018 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:38:53,164 - app.main - INFO - Application started
+2026-03-18 11:38:57,459 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:39:05,105 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:39:16,476 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:39:55,094 - app.main - INFO - Application started
+2026-03-18 11:39:59,355 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:39:59,401 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:40:06,178 - app.services.auth_service - WARNING - Failed authentication attempt for: naveen
+2026-03-18 11:40:16,253 - app.services.auth_service - WARNING - Failed authentication attempt for: naveen
+2026-03-18 11:40:28,342 - app.main - INFO - Application started
+2026-03-18 11:40:32,091 - app.services.auth_service - WARNING - Failed authentication attempt for: naveen
+2026-03-18 11:40:32,743 - app.services.auth_service - WARNING - Failed authentication attempt for: naveen
+2026-03-18 11:40:33,197 - app.services.auth_service - WARNING - Failed authentication attempt for: naveen
+2026-03-18 11:40:33,606 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:40:33,644 - app.services.auth_service - WARNING - Failed authentication attempt for: naveen
+2026-03-18 11:40:42,728 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:41:24,319 - app.main - INFO - Application started
+2026-03-18 11:41:29,649 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:41:29,711 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:41:51,308 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:42:57,108 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:42:57,208 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:43:27,554 - app.main - INFO - Application started
+2026-03-18 11:43:32,829 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:43:32,875 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:44:05,855 - app.main - INFO - Application started
+2026-03-18 11:44:11,148 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:44:30,773 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:44:32,249 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:44:33,047 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:44:53,247 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:44:55,412 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:46:38,665 - app.main - INFO - Application started
+2026-03-18 11:46:43,974 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:46:44,014 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:47:12,056 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:47:52,428 - app.main - INFO - Application started
+2026-03-18 11:47:57,751 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:48:07,766 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:48:58,607 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:48:59,174 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:48:59,500 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 11:49:03,857 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 14:31:33,273 - app.main - INFO - Application started
+2026-03-18 14:31:50,567 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 14:32:00,731 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 14:33:25,303 - app.main - INFO - Application started
+2026-03-18 14:33:40,115 - app.main - INFO - Application started
+2026-03-18 14:33:45,338 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 14:34:46,791 - app.main - INFO - Application started
+2026-03-18 14:35:27,328 - app.main - INFO - Application started
+2026-03-18 14:35:29,298 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 14:36:15,284 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 14:36:22,904 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 14:37:01,324 - app.main - INFO - Application started
+2026-03-18 14:37:04,512 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 14:37:47,797 - app.main - INFO - Application started
+2026-03-18 14:37:58,994 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 14:38:58,048 - app.main - INFO - Application started
+2026-03-18 14:40:35,847 - app.main - INFO - Application started
+2026-03-18 14:40:35,848 - app.main - INFO - Application shutting down
+2026-03-18 14:41:10,246 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 14:41:39,264 - app.main - INFO - Application started
+2026-03-18 14:41:39,264 - app.main - INFO - Application shutting down
+2026-03-18 14:41:51,686 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 14:41:59,104 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 14:49:04,786 - app.main - INFO - Application started
+2026-03-18 14:49:04,787 - app.main - INFO - Application shutting down
+2026-03-18 14:49:09,200 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-03-18 14:50:30,283 - app.main - INFO - Application started
+2026-03-18 14:50:42,284 - app.routes.auth - INFO - Test endpoint called
+2026-03-18 14:50:47,176 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 14:50:47,359 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 14:50:47,360 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 14:50:47,360 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 14:50:47,360 - app.routes.auth - INFO - Token created successfully
+2026-03-18 14:50:47,360 - app.routes.auth - INFO - Returning login response
+2026-03-18 14:50:57,581 - app.routes.auth - INFO - Login attempt for user: invalid_user
+2026-03-18 14:50:57,582 - app.services.auth_service - WARNING - Failed authentication attempt for: invalid_user
+2026-03-18 14:50:57,582 - app.routes.auth - INFO - Auth result: None
+2026-03-18 14:50:57,582 - app.routes.auth - ERROR - HTTPException raised in login
+2026-03-18 14:51:21,039 - app.routes.auth - INFO - Test endpoint called
+2026-03-18 14:51:21,291 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 14:51:21,464 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 14:51:21,464 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 14:51:21,464 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 14:51:21,464 - app.routes.auth - INFO - Token created successfully
+2026-03-18 14:51:21,464 - app.routes.auth - INFO - Returning login response
+2026-03-18 14:51:21,775 - app.routes.auth - INFO - Login attempt for user: invalid_user
+2026-03-18 14:51:21,776 - app.services.auth_service - WARNING - Failed authentication attempt for: invalid_user
+2026-03-18 14:51:21,776 - app.routes.auth - INFO - Auth result: None
+2026-03-18 14:51:21,776 - app.routes.auth - ERROR - HTTPException raised in login
+2026-03-18 14:52:07,123 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 14:52:07,295 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 14:52:07,295 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 14:52:07,295 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 14:52:07,295 - app.routes.auth - INFO - Token created successfully
+2026-03-18 14:52:07,295 - app.routes.auth - INFO - Returning login response
+2026-03-18 14:52:35,381 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 14:52:35,617 - app.services.auth_service - WARNING - Failed authentication attempt for: naveen
+2026-03-18 14:52:35,617 - app.routes.auth - INFO - Auth result: None
+2026-03-18 14:52:35,617 - app.routes.auth - ERROR - HTTPException raised in login
+2026-03-18 14:54:04,877 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 14:54:05,199 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 14:54:05,199 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 14:54:05,199 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 14:54:05,199 - app.routes.auth - INFO - Token created successfully
+2026-03-18 14:54:05,199 - app.routes.auth - INFO - Returning login response
+2026-03-18 14:54:36,324 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 14:54:36,589 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 14:54:36,589 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 14:54:36,589 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 14:54:36,589 - app.routes.auth - INFO - Token created successfully
+2026-03-18 14:54:36,589 - app.routes.auth - INFO - Returning login response
+2026-03-18 14:57:15,600 - app.services.device_service - INFO - Device registered: 7675992a-e0fd-420e-bb85-3620c5ac456f (My Laptop)
+2026-03-18 14:57:48,258 - app.services.websocket_manager - INFO - Device connected: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 14:57:48,267 - app.services.device_service - INFO - Device status updated: 7675992a-e0fd-420e-bb85-3620c5ac456f - Status: online
+2026-03-18 14:58:00,448 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 14:58:00,449 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 14:58:30,464 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 14:58:30,465 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 14:59:00,488 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 14:59:00,489 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 14:59:30,482 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 14:59:30,483 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:00:00,487 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:00:00,488 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:00:08,117 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 15:00:08,285 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 15:00:08,285 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 15:00:08,285 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:00:08,285 - app.routes.auth - INFO - Token created successfully
+2026-03-18 15:00:08,285 - app.routes.auth - INFO - Returning login response
+2026-03-18 15:00:30,504 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:00:30,505 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:00:41,443 - app.main - INFO - Application started
+2026-03-18 15:00:41,444 - app.main - INFO - Application shutting down
+2026-03-18 15:01:00,516 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:01:00,518 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:01:10,145 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 15:01:10,314 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 15:01:10,314 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 15:01:10,314 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:01:10,315 - app.routes.auth - INFO - Token created successfully
+2026-03-18 15:01:10,315 - app.routes.auth - INFO - Returning login response
+2026-03-18 15:01:28,574 - app.main - INFO - Application started
+2026-03-18 15:01:28,575 - app.main - INFO - Application shutting down
+2026-03-18 15:01:30,529 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:01:30,530 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:02:00,530 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:02:00,531 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:02:17,492 - app.main - INFO - Application started
+2026-03-18 15:02:17,493 - app.main - INFO - Application shutting down
+2026-03-18 15:02:30,540 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:02:30,541 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:03:05,536 - app.main - INFO - Application started
+2026-03-18 15:03:09,461 - app.services.websocket_manager - INFO - Device connected: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:03:09,470 - app.services.device_service - INFO - Device status updated: 7675992a-e0fd-420e-bb85-3620c5ac456f - Status: online
+2026-03-18 15:03:19,878 - app.routes.auth - INFO - Login attempt for user: admin
+2026-03-18 15:03:19,880 - app.services.auth_service - WARNING - Failed authentication attempt for: admin
+2026-03-18 15:03:19,880 - app.routes.auth - INFO - Auth result: None
+2026-03-18 15:03:19,880 - app.routes.auth - ERROR - HTTPException raised in login
+2026-03-18 15:03:35,531 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:03:35,532 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:04:05,533 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:04:05,534 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:04:08,407 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 15:04:08,578 - app.services.auth_service - WARNING - Failed authentication attempt for: naveen
+2026-03-18 15:04:08,578 - app.routes.auth - INFO - Auth result: None
+2026-03-18 15:04:08,578 - app.routes.auth - ERROR - HTTPException raised in login
+2026-03-18 15:04:20,225 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 15:04:20,400 - app.services.auth_service - WARNING - Failed authentication attempt for: naveen
+2026-03-18 15:04:20,400 - app.routes.auth - INFO - Auth result: None
+2026-03-18 15:04:20,400 - app.routes.auth - ERROR - HTTPException raised in login
+2026-03-18 15:04:20,679 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 15:04:20,848 - app.services.auth_service - WARNING - Failed authentication attempt for: naveen
+2026-03-18 15:04:20,848 - app.routes.auth - INFO - Auth result: None
+2026-03-18 15:04:20,848 - app.routes.auth - ERROR - HTTPException raised in login
+2026-03-18 15:04:21,129 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 15:04:21,297 - app.services.auth_service - WARNING - Failed authentication attempt for: naveen
+2026-03-18 15:04:21,297 - app.routes.auth - INFO - Auth result: None
+2026-03-18 15:04:21,297 - app.routes.auth - ERROR - HTTPException raised in login
+2026-03-18 15:04:21,563 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 15:04:21,733 - app.services.auth_service - WARNING - Failed authentication attempt for: naveen
+2026-03-18 15:04:21,733 - app.routes.auth - INFO - Auth result: None
+2026-03-18 15:04:21,733 - app.routes.auth - ERROR - HTTPException raised in login
+2026-03-18 15:04:21,984 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 15:04:22,153 - app.services.auth_service - WARNING - Failed authentication attempt for: naveen
+2026-03-18 15:04:22,153 - app.routes.auth - INFO - Auth result: None
+2026-03-18 15:04:22,153 - app.routes.auth - ERROR - HTTPException raised in login
+2026-03-18 15:04:35,550 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:04:35,552 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:04:42,993 - app.services.auth_service - INFO - User created: testuser
+2026-03-18 15:05:04,008 - app.routes.auth - INFO - Login attempt for user: testuser
+2026-03-18 15:05:04,191 - app.services.auth_service - INFO - User authenticated: testuser
+2026-03-18 15:05:04,191 - app.routes.auth - INFO - Auth result: <User testuser>
+2026-03-18 15:05:04,191 - app.routes.auth - INFO - Creating token for user ID: decec396-5352-4986-af72-fa4a50c8e1ab
+2026-03-18 15:05:04,191 - app.routes.auth - INFO - Token created successfully
+2026-03-18 15:05:04,191 - app.routes.auth - INFO - Returning login response
+2026-03-18 15:05:05,553 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:05:05,554 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:05:35,547 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:05:35,548 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:06:05,552 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:06:05,553 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:06:35,555 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:06:35,556 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:07:05,565 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:07:05,566 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:07:35,584 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:07:35,585 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:08:05,615 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:08:05,616 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:08:35,620 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:08:35,620 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:09:05,633 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:09:05,634 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:09:35,661 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:09:35,662 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:10:05,681 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:10:05,683 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:10:35,676 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:10:35,678 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:11:05,686 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:11:05,687 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:11:35,705 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:11:35,707 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:12:05,713 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:12:05,714 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:12:06,890 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 15:12:07,051 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 15:12:07,051 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 15:12:07,051 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:12:07,051 - app.routes.auth - INFO - Token created successfully
+2026-03-18 15:12:07,051 - app.routes.auth - INFO - Returning login response
+2026-03-18 15:12:35,737 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:12:35,739 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:13:05,743 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:13:05,744 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:13:35,767 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:13:35,768 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:14:05,771 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:14:05,772 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:14:35,800 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:14:35,801 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:15:05,811 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:15:05,812 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:15:35,811 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:15:35,811 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:16:05,787 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:16:05,788 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:16:35,808 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:16:35,810 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:17:05,799 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:17:05,801 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:17:35,816 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:17:35,817 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:18:05,804 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:18:05,805 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:18:35,809 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:18:35,810 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:19:05,804 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:19:05,806 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:19:35,832 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:19:35,833 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:20:05,819 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:20:05,820 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:20:35,844 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:20:35,845 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:21:05,857 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:21:05,858 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:21:35,845 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:21:35,846 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:22:05,863 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:22:05,864 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:22:35,868 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:22:35,869 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:23:05,882 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:23:05,883 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:23:35,896 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:23:35,896 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:24:05,899 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:24:05,900 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:24:35,907 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:24:35,908 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:25:05,885 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:25:05,886 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:25:13,674 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 15:25:13,842 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 15:25:13,842 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 15:25:13,842 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:25:13,843 - app.routes.auth - INFO - Token created successfully
+2026-03-18 15:25:13,843 - app.routes.auth - INFO - Returning login response
+2026-03-18 15:25:35,883 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:25:35,884 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:26:05,903 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:26:05,905 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:26:35,911 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:26:35,913 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:27:05,927 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:27:05,928 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:27:35,942 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:27:35,944 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:28:05,955 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:28:05,956 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:28:35,970 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:28:35,971 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:29:05,976 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:29:05,977 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:29:35,992 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:29:35,993 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:30:06,007 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:30:06,008 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:30:36,033 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:30:36,034 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:31:06,039 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:31:06,041 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:31:36,059 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:31:36,060 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:32:06,055 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:32:06,057 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:32:36,055 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:32:36,057 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:33:06,039 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:33:06,040 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:33:36,060 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:33:36,061 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:33:54,451 - app.main - INFO - Application started
+2026-03-18 15:33:54,452 - app.main - INFO - Application shutting down
+2026-03-18 15:34:06,080 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:34:06,081 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:34:25,123 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 15:34:25,310 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 15:34:25,310 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 15:34:25,311 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:34:25,311 - app.routes.auth - INFO - Token created successfully
+2026-03-18 15:34:25,311 - app.routes.auth - INFO - Returning login response
+2026-03-18 15:34:36,084 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:34:36,086 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:35:06,107 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:35:06,108 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:35:36,116 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:35:36,117 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:36:06,127 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:36:06,128 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:36:36,120 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:36:36,121 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:37:06,119 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:37:06,121 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:37:09,220 - app.main - INFO - Application started
+2026-03-18 15:37:09,221 - app.main - INFO - Application shutting down
+2026-03-18 15:37:36,118 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:37:36,119 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:38:06,123 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:38:06,125 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:38:36,141 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:38:36,143 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:39:06,145 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:39:06,147 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:39:36,149 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:39:36,150 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:40:06,173 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:40:06,175 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:40:36,171 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:40:36,173 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:41:06,171 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:41:06,172 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:41:36,187 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:41:36,189 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:42:06,195 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:42:06,197 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:42:36,202 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:42:36,205 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:43:06,214 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:43:06,215 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:43:36,235 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:43:36,236 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:43:38,241 - app.main - INFO - Application started
+2026-03-18 15:43:38,242 - app.main - INFO - Application shutting down
+2026-03-18 15:44:06,227 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:44:06,228 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:44:36,228 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:44:36,229 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:44:48,907 - app.main - INFO - Application started
+2026-03-18 15:44:48,908 - app.main - INFO - Application shutting down
+2026-03-18 15:45:06,226 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:45:06,227 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:45:36,224 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:45:36,225 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:45:55,450 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 15:45:55,450 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 15:45:55,450 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 15:45:55,450 - app.utils.auth - INFO - Token payload: {'sub': 'ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2', 'username': 'naveen', 'exp': 1773830755}
+2026-03-18 15:45:55,450 - app.utils.auth - INFO - Extracted user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:45:55,452 - app.utils.auth - INFO - AUTH SUCCESS: user_id=ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:46:06,228 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:46:06,228 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:46:26,546 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 10.0.5.134:8000
+2026-03-18 15:46:26,551 - urllib3.connectionpool - DEBUG - http://10.0.5.134:8000 "POST /commands/ HTTP/1.1" 403 26
+2026-03-18 15:46:36,239 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:46:36,241 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:47:02,083 - app.main - INFO - Application started
+2026-03-18 15:47:02,084 - app.main - INFO - Application shutting down
+2026-03-18 15:47:06,231 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:47:06,232 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:47:36,241 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:47:36,242 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:48:06,254 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:48:06,256 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:48:36,254 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:48:36,256 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:49:04,498 - app.main - INFO - Application started
+2026-03-18 15:49:04,498 - app.main - INFO - Application shutting down
+2026-03-18 15:49:06,253 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:49:06,254 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:49:36,259 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:49:36,260 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:50:06,271 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:50:06,272 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:50:09,968 - app.main - INFO - Application started
+2026-03-18 15:50:09,968 - app.main - INFO - Application shutting down
+2026-03-18 15:50:36,283 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:50:36,284 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:51:06,302 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:51:06,303 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:51:36,418 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:51:36,419 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:52:06,442 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:52:06,443 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:52:36,444 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:52:36,445 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:53:06,451 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:53:06,453 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:53:36,454 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:53:36,456 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:54:06,445 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:54:06,446 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:54:36,465 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:54:36,466 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:55:29,949 - app.main - INFO - Application started
+2026-03-18 15:55:30,189 - app.services.websocket_manager - INFO - Device connected: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:55:30,203 - app.services.device_service - INFO - Device status updated: 7675992a-e0fd-420e-bb85-3620c5ac456f - Status: online
+2026-03-18 15:55:59,964 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:55:59,966 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:56:04,795 - app.routes.commands - INFO - Commands test endpoint called
+2026-03-18 15:56:07,656 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 15:56:07,656 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:56:07,656 - app.routes.commands - INFO - Command type: open_chrome
+2026-03-18 15:56:07,656 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:56:07,657 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 15:56:07,658 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 15:56:07,658 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:56:07,658 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:56:07,658 - app.routes.commands - INFO - Match: True
+2026-03-18 15:56:07,675 - app.services.command_service - INFO - Command created: 558d3e6a-21d4-4a20-89f2-8e0026fe52d8 (open_chrome) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 15:56:07,675 - app.routes.commands - INFO - Command created: 558d3e6a-21d4-4a20-89f2-8e0026fe52d8
+2026-03-18 15:56:07,678 - app.routes.commands - INFO - Device online: True
+2026-03-18 15:56:07,678 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 15:56:07,680 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 15:56:07,695 - app.services.command_service - INFO - Command marked as sent: 558d3e6a-21d4-4a20-89f2-8e0026fe52d8
+2026-03-18 15:56:07,699 - app.routes.commands - INFO - Command sent to device
+2026-03-18 15:56:07,711 - app.services.command_service - INFO - Command updated: 558d3e6a-21d4-4a20-89f2-8e0026fe52d8 - Status: completed
+2026-03-18 15:56:07,711 - app.main - INFO - Command completed: 558d3e6a-21d4-4a20-89f2-8e0026fe52d8
+2026-03-18 15:56:16,389 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 15:56:16,389 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:56:16,389 - app.routes.commands - INFO - Command type: open_whatsapp_web
+2026-03-18 15:56:16,389 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:56:16,389 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 15:56:16,390 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 15:56:16,390 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:56:16,390 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:56:16,390 - app.routes.commands - INFO - Match: True
+2026-03-18 15:56:16,399 - app.services.command_service - INFO - Command created: a1d25eb4-0fd6-4607-bd8a-af00d427c1d6 (open_whatsapp_web) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 15:56:16,399 - app.routes.commands - INFO - Command created: a1d25eb4-0fd6-4607-bd8a-af00d427c1d6
+2026-03-18 15:56:16,400 - app.routes.commands - INFO - Device online: True
+2026-03-18 15:56:16,400 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 15:56:16,401 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 15:56:16,411 - app.services.command_service - INFO - Command marked as sent: a1d25eb4-0fd6-4607-bd8a-af00d427c1d6
+2026-03-18 15:56:16,411 - app.routes.commands - INFO - Command sent to device
+2026-03-18 15:56:16,419 - app.services.command_service - INFO - Command updated: a1d25eb4-0fd6-4607-bd8a-af00d427c1d6 - Status: completed
+2026-03-18 15:56:16,420 - app.main - INFO - Command completed: a1d25eb4-0fd6-4607-bd8a-af00d427c1d6
+2026-03-18 15:56:29,962 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:56:29,963 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:56:33,321 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 15:56:33,321 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:56:33,321 - app.routes.commands - INFO - Command type: take_screenshot
+2026-03-18 15:56:33,321 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:56:33,322 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 15:56:33,322 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 15:56:33,322 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:56:33,322 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:56:33,322 - app.routes.commands - INFO - Match: True
+2026-03-18 15:56:33,330 - app.services.command_service - INFO - Command created: a2261d83-6168-40ee-a01e-51214720ea9f (take_screenshot) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 15:56:33,330 - app.routes.commands - INFO - Command created: a2261d83-6168-40ee-a01e-51214720ea9f
+2026-03-18 15:56:33,331 - app.routes.commands - INFO - Device online: True
+2026-03-18 15:56:33,331 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 15:56:33,332 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 15:56:33,341 - app.services.command_service - INFO - Command marked as sent: a2261d83-6168-40ee-a01e-51214720ea9f
+2026-03-18 15:56:33,341 - app.routes.commands - INFO - Command sent to device
+2026-03-18 15:56:33,551 - app.services.command_service - INFO - Command updated: a2261d83-6168-40ee-a01e-51214720ea9f - Status: completed
+2026-03-18 15:56:33,551 - app.main - INFO - Command completed: a2261d83-6168-40ee-a01e-51214720ea9f
+2026-03-18 15:56:40,575 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 15:56:40,575 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:56:40,575 - app.routes.commands - INFO - Command type: execute
+2026-03-18 15:56:40,575 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:56:40,576 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 15:56:40,576 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 15:56:40,576 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:56:40,576 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:56:40,576 - app.routes.commands - INFO - Match: True
+2026-03-18 15:56:40,585 - app.services.command_service - INFO - Command created: 8f574b56-6cb4-4b16-98a9-709d0830a5f3 (execute) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 15:56:40,585 - app.routes.commands - INFO - Command created: 8f574b56-6cb4-4b16-98a9-709d0830a5f3
+2026-03-18 15:56:40,586 - app.routes.commands - INFO - Device online: True
+2026-03-18 15:56:40,586 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 15:56:40,588 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 15:56:40,597 - app.services.command_service - INFO - Command updated: 8f574b56-6cb4-4b16-98a9-709d0830a5f3 - Status: failed
+2026-03-18 15:56:40,598 - app.services.command_service - INFO - Command marked as sent: 8f574b56-6cb4-4b16-98a9-709d0830a5f3
+2026-03-18 15:56:40,598 - app.main - WARNING - Command failed: 8f574b56-6cb4-4b16-98a9-709d0830a5f3
+2026-03-18 15:56:40,598 - app.routes.commands - INFO - Command sent to device
+2026-03-18 15:56:43,485 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 15:56:43,485 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:56:43,485 - app.routes.commands - INFO - Command type: lock_screen
+2026-03-18 15:56:43,485 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:56:43,486 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 15:56:43,486 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 15:56:43,486 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:56:43,486 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:56:43,486 - app.routes.commands - INFO - Match: True
+2026-03-18 15:56:43,494 - app.services.command_service - INFO - Command created: 21c03f57-712f-475d-b41c-cec5bc202818 (lock_screen) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 15:56:43,496 - app.routes.commands - INFO - Command created: 21c03f57-712f-475d-b41c-cec5bc202818
+2026-03-18 15:56:43,496 - app.routes.commands - INFO - Device online: True
+2026-03-18 15:56:43,496 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 15:56:43,497 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 15:56:43,505 - app.services.command_service - INFO - Command marked as sent: 21c03f57-712f-475d-b41c-cec5bc202818
+2026-03-18 15:56:43,505 - app.routes.commands - INFO - Command sent to device
+2026-03-18 15:56:43,534 - app.services.command_service - INFO - Command updated: 21c03f57-712f-475d-b41c-cec5bc202818 - Status: completed
+2026-03-18 15:56:43,534 - app.main - INFO - Command completed: 21c03f57-712f-475d-b41c-cec5bc202818
+2026-03-18 15:56:59,981 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:56:59,982 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:57:07,686 - app.routes.commands - INFO - Commands test endpoint called
+2026-03-18 15:57:09,742 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 15:57:09,743 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:57:09,743 - app.routes.commands - INFO - Command type: open_whatsapp_web
+2026-03-18 15:57:09,743 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:57:09,746 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 15:57:09,746 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 15:57:09,746 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:57:09,746 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:57:09,746 - app.routes.commands - INFO - Match: True
+2026-03-18 15:57:09,754 - app.services.command_service - INFO - Command created: b4467eb4-e683-4d53-b267-bd20670eaea8 (open_whatsapp_web) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 15:57:09,755 - app.routes.commands - INFO - Command created: b4467eb4-e683-4d53-b267-bd20670eaea8
+2026-03-18 15:57:09,755 - app.routes.commands - INFO - Device online: True
+2026-03-18 15:57:09,755 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 15:57:09,756 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 15:57:09,766 - app.services.command_service - INFO - Command marked as sent: b4467eb4-e683-4d53-b267-bd20670eaea8
+2026-03-18 15:57:09,766 - app.routes.commands - INFO - Command sent to device
+2026-03-18 15:57:09,775 - app.services.command_service - INFO - Command updated: b4467eb4-e683-4d53-b267-bd20670eaea8 - Status: completed
+2026-03-18 15:57:09,775 - app.main - INFO - Command completed: b4467eb4-e683-4d53-b267-bd20670eaea8
+2026-03-18 15:57:29,997 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:57:29,998 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:57:59,998 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:58:00,000 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:58:25,573 - app.main - INFO - Application started
+2026-03-18 15:58:25,574 - app.main - INFO - Application shutting down
+2026-03-18 15:58:30,000 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:58:30,000 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:58:40,453 - app.routes.auth - INFO - Login attempt for user: naveen
+2026-03-18 15:58:40,625 - app.services.auth_service - INFO - User authenticated: naveen
+2026-03-18 15:58:40,625 - app.routes.auth - INFO - Auth result: <User naveen>
+2026-03-18 15:58:40,625 - app.routes.auth - INFO - Creating token for user ID: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:58:40,625 - app.routes.auth - INFO - Token created successfully
+2026-03-18 15:58:40,625 - app.routes.auth - INFO - Returning login response
+2026-03-18 15:58:40,727 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 15:58:40,727 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 15:58:40,727 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 15:58:40,727 - app.utils.auth - INFO - Token payload: {'sub': 'ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2', 'username': 'naveen', 'exp': 1773831520}
+2026-03-18 15:58:40,727 - app.utils.auth - INFO - Extracted user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:58:40,727 - app.utils.auth - INFO - AUTH SUCCESS: user_id=ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:58:40,734 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 15:58:40,734 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 15:58:40,734 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 15:58:40,734 - app.utils.auth - INFO - Token payload: {'sub': 'ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2', 'username': 'naveen', 'exp': 1773831520}
+2026-03-18 15:58:40,734 - app.utils.auth - INFO - Extracted user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:58:40,734 - app.utils.auth - INFO - AUTH SUCCESS: user_id=ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:59:00,020 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:59:00,020 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:59:30,031 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 15:59:30,039 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:59:50,820 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 10.0.5.134:8000
+2026-03-18 15:59:50,825 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 15:59:50,825 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 15:59:50,825 - app.routes.commands - INFO - Command type: open_chrome
+2026-03-18 15:59:50,825 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:59:50,827 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 15:59:50,827 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 15:59:50,827 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:59:50,827 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 15:59:50,827 - app.routes.commands - INFO - Match: True
+2026-03-18 15:59:50,839 - app.services.command_service - INFO - Command created: 96c11542-8725-4437-b4b4-725bda8078d7 (open_chrome) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 15:59:50,839 - app.routes.commands - INFO - Command created: 96c11542-8725-4437-b4b4-725bda8078d7
+2026-03-18 15:59:50,840 - app.routes.commands - INFO - Device online: True
+2026-03-18 15:59:50,840 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 15:59:50,841 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 15:59:50,851 - app.services.command_service - INFO - Command marked as sent: 96c11542-8725-4437-b4b4-725bda8078d7
+2026-03-18 15:59:50,852 - app.routes.commands - INFO - Command sent to device
+2026-03-18 15:59:50,861 - app.services.command_service - INFO - Command updated: 96c11542-8725-4437-b4b4-725bda8078d7 - Status: completed
+2026-03-18 15:59:50,861 - app.main - INFO - Command completed: 96c11542-8725-4437-b4b4-725bda8078d7
+2026-03-18 15:59:50,863 - urllib3.connectionpool - DEBUG - http://10.0.5.134:8000 "POST /commands/ HTTP/1.1" 200 279
+2026-03-18 16:00:00,048 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:00:00,049 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:00:14,394 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 16:00:14,394 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 16:00:14,394 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 16:00:14,395 - app.utils.auth - INFO - Token payload: {'sub': 'ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2', 'username': 'naveen', 'exp': 1773831520}
+2026-03-18 16:00:14,395 - app.utils.auth - INFO - Extracted user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:00:14,395 - app.utils.auth - INFO - AUTH SUCCESS: user_id=ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:00:28,947 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 16:00:28,947 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:00:28,947 - app.routes.commands - INFO - Command type: open_chrome
+2026-03-18 16:00:28,947 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:00:28,947 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 16:00:28,948 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 16:00:28,948 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:00:28,948 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:00:28,948 - app.routes.commands - INFO - Match: True
+2026-03-18 16:00:28,957 - app.services.command_service - INFO - Command created: eae41b3d-0559-45c8-a0ef-96c788e39c93 (open_chrome) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 16:00:28,957 - app.routes.commands - INFO - Command created: eae41b3d-0559-45c8-a0ef-96c788e39c93
+2026-03-18 16:00:28,957 - app.routes.commands - INFO - Device online: True
+2026-03-18 16:00:28,957 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 16:00:28,958 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 16:00:28,967 - app.services.command_service - INFO - Command marked as sent: eae41b3d-0559-45c8-a0ef-96c788e39c93
+2026-03-18 16:00:28,967 - app.routes.commands - INFO - Command sent to device
+2026-03-18 16:00:28,975 - app.services.command_service - INFO - Command updated: eae41b3d-0559-45c8-a0ef-96c788e39c93 - Status: completed
+2026-03-18 16:00:28,975 - app.main - INFO - Command completed: eae41b3d-0559-45c8-a0ef-96c788e39c93
+2026-03-18 16:00:30,061 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:00:30,062 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:00:33,248 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 16:00:33,248 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:00:33,249 - app.routes.commands - INFO - Command type: take_screenshot
+2026-03-18 16:00:33,249 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:00:33,249 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 16:00:33,249 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 16:00:33,249 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:00:33,249 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:00:33,249 - app.routes.commands - INFO - Match: True
+2026-03-18 16:00:33,257 - app.services.command_service - INFO - Command created: 30b19c09-ba25-4b52-ab90-3bede8d5e6fb (take_screenshot) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 16:00:33,258 - app.routes.commands - INFO - Command created: 30b19c09-ba25-4b52-ab90-3bede8d5e6fb
+2026-03-18 16:00:33,259 - app.routes.commands - INFO - Device online: True
+2026-03-18 16:00:33,259 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 16:00:33,259 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 16:00:33,269 - app.services.command_service - INFO - Command marked as sent: 30b19c09-ba25-4b52-ab90-3bede8d5e6fb
+2026-03-18 16:00:33,269 - app.routes.commands - INFO - Command sent to device
+2026-03-18 16:00:33,428 - app.services.command_service - INFO - Command updated: 30b19c09-ba25-4b52-ab90-3bede8d5e6fb - Status: completed
+2026-03-18 16:00:33,428 - app.main - INFO - Command completed: 30b19c09-ba25-4b52-ab90-3bede8d5e6fb
+2026-03-18 16:01:00,075 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:01:00,075 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:01:30,099 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:01:30,100 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:02:00,094 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:02:00,096 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:02:28,004 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 16:02:28,004 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:02:28,004 - app.routes.commands - INFO - Command type: open_chrome
+2026-03-18 16:02:28,004 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:02:28,005 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 16:02:28,005 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 16:02:28,005 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:02:28,005 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:02:28,005 - app.routes.commands - INFO - Match: True
+2026-03-18 16:02:28,013 - app.services.command_service - INFO - Command created: c6da9e86-dfde-437b-8607-646ed2cdc355 (open_chrome) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 16:02:28,014 - app.routes.commands - INFO - Command created: c6da9e86-dfde-437b-8607-646ed2cdc355
+2026-03-18 16:02:28,014 - app.routes.commands - INFO - Device online: True
+2026-03-18 16:02:28,014 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 16:02:28,015 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 16:02:28,025 - app.services.command_service - INFO - Command marked as sent: c6da9e86-dfde-437b-8607-646ed2cdc355
+2026-03-18 16:02:28,025 - app.routes.commands - INFO - Command sent to device
+2026-03-18 16:02:28,033 - app.services.command_service - INFO - Command updated: c6da9e86-dfde-437b-8607-646ed2cdc355 - Status: completed
+2026-03-18 16:02:28,033 - app.main - INFO - Command completed: c6da9e86-dfde-437b-8607-646ed2cdc355
+2026-03-18 16:02:30,107 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:02:30,108 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:03:00,124 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:03:00,125 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:03:30,144 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:03:30,144 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:04:00,160 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:04:00,160 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:04:30,177 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:04:30,179 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:05:00,192 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:05:00,193 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:05:30,189 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:05:30,189 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:06:00,176 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:06:00,177 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:06:30,192 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:06:30,193 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:07:00,196 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:07:00,197 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:07:30,206 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:07:30,207 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:08:00,210 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:08:00,211 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:08:30,242 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:08:30,244 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:09:00,270 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:09:00,271 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:09:05,475 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 16:09:05,476 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:09:05,476 - app.routes.commands - INFO - Command type: open_chrome
+2026-03-18 16:09:05,476 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:09:05,477 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 16:09:05,478 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 16:09:05,478 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:09:05,478 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:09:05,478 - app.routes.commands - INFO - Match: True
+2026-03-18 16:09:05,494 - app.services.command_service - INFO - Command created: 7b5f69b2-5cbc-49ae-ab23-fbb2ff9db801 (open_chrome) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 16:09:05,494 - app.routes.commands - INFO - Command created: 7b5f69b2-5cbc-49ae-ab23-fbb2ff9db801
+2026-03-18 16:09:05,496 - app.routes.commands - INFO - Device online: True
+2026-03-18 16:09:05,496 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 16:09:05,498 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 16:09:05,517 - sqlalchemy.pool.impl.StaticPool - ERROR - Exception during reset or similar
+Traceback (most recent call last):
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\pool\base.py", line 988, in _finalize_fairy
+    fairy._reset(
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\pool\base.py", line 1438, in _reset
+    pool._dialect.do_rollback(self)
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\default.py", line 692, in do_rollback
+    dbapi_connection.rollback()
+sqlite3.DatabaseError: cannot rollback - no transaction is active
+2026-03-18 16:09:05,517 - app.services.command_service - INFO - Command updated: 7b5f69b2-5cbc-49ae-ab23-fbb2ff9db801 - Status: completed
+2026-03-18 16:09:05,547 - app.main - INFO - Command completed: 7b5f69b2-5cbc-49ae-ab23-fbb2ff9db801
+2026-03-18 16:09:05,553 - app.services.command_service - INFO - Command marked as sent: 7b5f69b2-5cbc-49ae-ab23-fbb2ff9db801
+2026-03-18 16:09:05,553 - app.routes.commands - INFO - Command sent to device
+2026-03-18 16:09:13,360 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 16:09:13,360 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 16:09:13,361 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 16:09:13,361 - app.utils.auth - INFO - Token payload: {'sub': 'ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2', 'username': 'naveen', 'exp': 1773831520}
+2026-03-18 16:09:13,361 - app.utils.auth - INFO - Extracted user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:09:13,362 - app.utils.auth - INFO - AUTH SUCCESS: user_id=ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:09:16,824 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 16:09:16,825 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:09:16,825 - app.routes.commands - INFO - Command type: open_whatsapp_web
+2026-03-18 16:09:16,825 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:09:16,826 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 16:09:16,826 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 16:09:16,826 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:09:16,826 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:09:16,826 - app.routes.commands - INFO - Match: True
+2026-03-18 16:09:16,842 - app.services.command_service - INFO - Command created: eb6f863a-eec0-4e81-9d99-622c14aa1367 (open_whatsapp_web) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 16:09:16,842 - app.routes.commands - INFO - Command created: eb6f863a-eec0-4e81-9d99-622c14aa1367
+2026-03-18 16:09:16,843 - app.routes.commands - INFO - Device online: True
+2026-03-18 16:09:16,844 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 16:09:16,847 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 16:09:16,859 - app.main - ERROR - Error processing command result: (sqlite3.ProgrammingError) Cannot operate on a closed database.
+[SQL: SELECT commands.id AS commands_id, commands.device_id AS commands_device_id, commands.command_type AS commands_command_type, commands.parameters AS commands_parameters, commands.status AS commands_status, commands.result AS commands_result, commands.error_message AS commands_error_message, commands.execution_time AS commands_execution_time, commands.sent_at AS commands_sent_at, commands.executed_at AS commands_executed_at, commands.created_at AS commands_created_at, commands.updated_at AS commands_updated_at 
+FROM commands 
+WHERE commands.id = ?
+ LIMIT ? OFFSET ?]
+[parameters: [{}]]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-03-18 16:09:16,865 - app.services.command_service - INFO - Command marked as sent: eb6f863a-eec0-4e81-9d99-622c14aa1367
+2026-03-18 16:09:16,865 - app.routes.commands - INFO - Command sent to device
+2026-03-18 16:09:23,101 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 16:09:23,101 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:09:23,102 - app.routes.commands - INFO - Command type: open_chrome
+2026-03-18 16:09:23,102 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:09:23,103 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 16:09:23,103 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 16:09:23,103 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:09:23,103 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:09:23,103 - app.routes.commands - INFO - Match: True
+2026-03-18 16:09:23,115 - app.services.command_service - INFO - Command created: 8375340c-a1bf-4a03-8887-dd0caa011321 (open_chrome) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 16:09:23,116 - app.routes.commands - INFO - Command created: 8375340c-a1bf-4a03-8887-dd0caa011321
+2026-03-18 16:09:23,117 - app.routes.commands - INFO - Device online: True
+2026-03-18 16:09:23,117 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 16:09:23,120 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 16:09:23,125 - app.main - ERROR - Error processing command result: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2026-03-18 16:09:23,133 - app.services.command_service - INFO - Command marked as sent: 8375340c-a1bf-4a03-8887-dd0caa011321
+2026-03-18 16:09:23,133 - app.routes.commands - INFO - Command sent to device
+2026-03-18 16:09:30,262 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:09:30,262 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:10:00,278 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:10:00,278 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:10:30,290 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:10:30,291 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:11:00,382 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:11:00,389 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:11:30,405 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:11:30,406 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:12:00,412 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:12:00,412 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:12:30,416 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:12:30,417 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:13:00,434 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:13:00,435 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:13:30,445 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:13:30,446 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:14:00,450 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:14:00,451 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:14:30,451 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:14:30,452 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:15:00,463 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:15:00,464 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:15:30,489 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:15:30,491 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:16:00,493 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:16:00,494 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:16:30,515 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:16:30,516 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:17:00,522 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:17:00,524 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:17:30,533 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:17:30,535 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:18:00,545 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:18:00,546 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:18:30,551 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:18:30,552 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:19:00,566 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:19:00,568 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:19:30,575 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:19:30,577 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:20:00,581 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:20:00,582 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:20:30,585 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:20:30,586 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:21:00,615 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:21:00,616 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:21:30,643 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:21:30,643 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:22:00,650 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:22:00,652 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:22:30,664 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:22:30,666 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:23:00,683 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:23:00,683 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:23:30,701 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:23:30,702 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:24:00,710 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:24:00,711 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:24:21,806 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 16:24:21,806 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:24:21,806 - app.routes.commands - INFO - Command type: open_chrome
+2026-03-18 16:24:21,807 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:24:21,809 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 16:24:21,810 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 16:24:21,810 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:24:21,810 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:24:21,810 - app.routes.commands - INFO - Match: True
+2026-03-18 16:24:21,830 - app.services.command_service - INFO - Command created: b9788cf2-51b7-4fe7-a774-0250162e682e (open_chrome) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 16:24:21,830 - app.routes.commands - INFO - Command created: b9788cf2-51b7-4fe7-a774-0250162e682e
+2026-03-18 16:24:21,832 - app.routes.commands - INFO - Device online: True
+2026-03-18 16:24:21,832 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 16:24:21,836 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 16:24:21,839 - app.main - ERROR - Error processing command result: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2026-03-18 16:24:21,851 - app.services.command_service - INFO - Command marked as sent: b9788cf2-51b7-4fe7-a774-0250162e682e
+2026-03-18 16:24:21,851 - app.routes.commands - INFO - Command sent to device
+2026-03-18 16:24:30,718 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:24:30,720 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:24:31,118 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 16:24:31,119 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 16:24:31,119 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 16:24:31,119 - app.utils.auth - INFO - Token payload: {'sub': 'ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2', 'username': 'naveen', 'exp': 1773831520}
+2026-03-18 16:24:31,119 - app.utils.auth - INFO - Extracted user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:24:31,119 - app.utils.auth - INFO - AUTH SUCCESS: user_id=ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2

@@ -1,0 +1,13 @@
+INFO:     Will watch for changes in these directories: ['C:\\Users\\Naveen K\\Desktop\\v2\\laptop-control-system\\backend']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [12272] using WatchFiles
+INFO:     Started server process [37620]
+INFO:     Waiting for application startup.
+2026-03-18 14:33:40,115 - app.main - INFO - Application started
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'app\routes\auth.py'. Reloading...
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "C:\Users\Naveen K\AppData\Local\Programs\Python\Python310\lib\multiprocessing\spawn.py", line 102, in spawn_main
+    source_process = _winapi.OpenProcess(
+OSError: [WinError 87] The parameter is incorrect
