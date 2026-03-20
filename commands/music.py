@@ -90,8 +90,8 @@ class MusicCommand(commands.Cog):
         # Step 7: Wait for results to load from Apple servers
         time.sleep(3)
 
-        # Step 8: Tab 2 times to highlight the Top Result (Song card), then Enter to open it
-        pyautogui.press("tab", presses=2, interval=0.2)
+        # Step 8: Tab 1 time to highlight the Top Result (Song card), then Enter to open it
+        pyautogui.press("tab", presses=1, interval=0.2)
         pyautogui.press("enter")
 
         # Step 9: Wait for the song/album page to fully load (shows the red ▶ Play button)
