@@ -2,6 +2,16 @@
 
 A production-ready remote laptop control system with real-time communication between a Flutter mobile app, FastAPI backend, and Python laptop agent.
 
+## Important License Notice
+
+This project is private and proprietary.
+
+- Do not clone, fork, copy, or download this project.
+- Do not use, modify, distribute, or reuse any part of this project.
+- Pull requests or external contributions are not accepted without prior written permission.
+
+See the LICENSE file in this repository for full terms.
+
 ## 🎯 Features
 
 - **Real-time Command Execution**: Send commands via WebSocket with <1 second latency

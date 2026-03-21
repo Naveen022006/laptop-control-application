@@ -1123,3 +1123,220 @@ WHERE commands.id = ?
 2026-03-18 16:24:31,119 - app.utils.auth - INFO - Token payload: {'sub': 'ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2', 'username': 'naveen', 'exp': 1773831520}
 2026-03-18 16:24:31,119 - app.utils.auth - INFO - Extracted user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
 2026-03-18 16:24:31,119 - app.utils.auth - INFO - AUTH SUCCESS: user_id=ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:24:51,541 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 16:24:51,541 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:24:51,542 - app.routes.commands - INFO - Command type: open_chrome
+2026-03-18 16:24:51,542 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:24:51,545 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 16:24:51,546 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 16:24:51,546 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:24:51,547 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:24:51,547 - app.routes.commands - INFO - Match: True
+2026-03-18 16:24:51,567 - app.services.command_service - INFO - Command created: 87236148-c446-4d4b-891b-6c0d65b6737e (open_chrome) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 16:24:51,567 - app.routes.commands - INFO - Command created: 87236148-c446-4d4b-891b-6c0d65b6737e
+2026-03-18 16:24:51,569 - app.routes.commands - INFO - Device online: True
+2026-03-18 16:24:51,569 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 16:24:51,573 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 16:24:51,576 - app.main - ERROR - Error processing command result: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2026-03-18 16:24:51,593 - app.services.command_service - INFO - Command marked as sent: 87236148-c446-4d4b-891b-6c0d65b6737e
+2026-03-18 16:24:51,593 - app.routes.commands - INFO - Command sent to device
+2026-03-18 16:25:00,717 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:25:00,718 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:25:17,522 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 16:25:17,522 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:25:17,522 - app.routes.commands - INFO - Command type: open_chrome
+2026-03-18 16:25:17,523 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:25:17,525 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 16:25:17,525 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 16:25:17,525 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:25:17,525 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:25:17,526 - app.routes.commands - INFO - Match: True
+2026-03-18 16:25:17,541 - app.services.command_service - INFO - Command created: 5706a1c9-0bed-4e37-b6e9-8d1d74a82a53 (open_chrome) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 16:25:17,541 - app.routes.commands - INFO - Command created: 5706a1c9-0bed-4e37-b6e9-8d1d74a82a53
+2026-03-18 16:25:17,543 - app.routes.commands - INFO - Device online: True
+2026-03-18 16:25:17,543 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 16:25:17,546 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 16:25:17,550 - app.main - ERROR - Error processing command result: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2026-03-18 16:25:17,561 - app.services.command_service - INFO - Command marked as sent: 5706a1c9-0bed-4e37-b6e9-8d1d74a82a53
+2026-03-18 16:25:17,561 - app.routes.commands - INFO - Command sent to device
+2026-03-18 16:25:21,046 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 16:25:21,046 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:25:21,047 - app.routes.commands - INFO - Command type: open_whatsapp_web
+2026-03-18 16:25:21,047 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:25:21,048 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 16:25:21,049 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 16:25:21,049 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:25:21,049 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:25:21,049 - app.routes.commands - INFO - Match: True
+2026-03-18 16:25:21,064 - app.services.command_service - INFO - Command created: 2000dddf-f292-41c0-afad-36c86c712d47 (open_whatsapp_web) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 16:25:21,064 - app.routes.commands - INFO - Command created: 2000dddf-f292-41c0-afad-36c86c712d47
+2026-03-18 16:25:21,065 - app.routes.commands - INFO - Device online: True
+2026-03-18 16:25:21,066 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 16:25:21,068 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 16:25:21,072 - app.main - ERROR - Error processing command result: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2026-03-18 16:25:21,083 - app.services.command_service - INFO - Command marked as sent: 2000dddf-f292-41c0-afad-36c86c712d47
+2026-03-18 16:25:21,083 - app.routes.commands - INFO - Command sent to device
+2026-03-18 16:25:30,712 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:25:30,714 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:25:55,104 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 16:25:55,105 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:25:55,105 - app.routes.commands - INFO - Command type: open_chrome
+2026-03-18 16:25:55,105 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:25:55,107 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 16:25:55,107 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 16:25:55,107 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:25:55,107 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:25:55,107 - app.routes.commands - INFO - Match: True
+2026-03-18 16:25:55,119 - app.services.command_service - INFO - Command created: 3fc73a95-d000-4052-9289-a7c49aca26ad (open_chrome) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 16:25:55,119 - app.routes.commands - INFO - Command created: 3fc73a95-d000-4052-9289-a7c49aca26ad
+2026-03-18 16:25:55,120 - app.routes.commands - INFO - Device online: True
+2026-03-18 16:25:55,120 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 16:25:55,122 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 16:25:55,126 - app.main - ERROR - Error processing command result: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2026-03-18 16:25:55,136 - app.services.command_service - INFO - Command marked as sent: 3fc73a95-d000-4052-9289-a7c49aca26ad
+2026-03-18 16:25:55,136 - app.routes.commands - INFO - Command sent to device
+2026-03-18 16:26:00,727 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:26:00,728 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:26:00,730 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 16:26:00,730 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:26:00,730 - app.routes.commands - INFO - Command type: open_whatsapp_web
+2026-03-18 16:26:00,730 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:26:00,731 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 16:26:00,732 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 16:26:00,732 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:26:00,732 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:26:00,732 - app.routes.commands - INFO - Match: True
+2026-03-18 16:26:00,742 - app.services.command_service - INFO - Command created: 003b5487-1ce0-4f2a-8f19-12efda7e0839 (open_whatsapp_web) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 16:26:00,743 - app.routes.commands - INFO - Command created: 003b5487-1ce0-4f2a-8f19-12efda7e0839
+2026-03-18 16:26:00,744 - app.routes.commands - INFO - Device online: True
+2026-03-18 16:26:00,744 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 16:26:00,746 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 16:26:00,748 - app.main - ERROR - Error processing command result: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2026-03-18 16:26:00,756 - app.services.command_service - INFO - Command marked as sent: 003b5487-1ce0-4f2a-8f19-12efda7e0839
+2026-03-18 16:26:00,756 - app.routes.commands - INFO - Command sent to device
+2026-03-18 16:26:30,714 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:26:30,716 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:27:00,741 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:27:00,742 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:27:30,741 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:27:30,743 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:28:00,772 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:28:00,774 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:28:30,767 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:28:30,768 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:29:00,768 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:29:00,769 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:29:30,765 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:29:30,770 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:29:34,895 - app.routes.commands - INFO - === COMMAND REQUEST (NO AUTH TEST) ===
+2026-03-18 16:29:34,896 - app.routes.commands - INFO - Requested device_id: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:29:34,896 - app.routes.commands - INFO - Command type: open_chrome
+2026-03-18 16:29:34,896 - app.routes.commands - INFO - User ID (hardcoded): ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:29:34,899 - app.routes.commands - INFO - Device lookup result: <Device My Laptop (7675992a-e0fd-420e-bb85-3620c5ac456f)>
+2026-03-18 16:29:34,900 - app.routes.commands - INFO - Device name: My Laptop
+2026-03-18 16:29:34,900 - app.routes.commands - INFO - Device owner user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:29:34,900 - app.routes.commands - INFO - Current user_id: ab1bb419-9c3c-43a6-a7f2-1ae22ed7e3a2
+2026-03-18 16:29:34,900 - app.routes.commands - INFO - Match: True
+2026-03-18 16:29:34,918 - app.services.command_service - INFO - Command created: 4c500a89-6ee3-487b-b678-5b0140295775 (open_chrome) for device: 42e71400-25da-4f62-8960-b15801179c17
+2026-03-18 16:29:34,918 - app.routes.commands - INFO - Command created: 4c500a89-6ee3-487b-b678-5b0140295775
+2026-03-18 16:29:34,919 - app.routes.commands - INFO - Device online: True
+2026-03-18 16:29:34,920 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-03-18 16:29:34,924 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: command
+2026-03-18 16:29:34,928 - app.main - ERROR - Error processing command result: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2026-03-18 16:29:34,939 - app.services.command_service - INFO - Command marked as sent: 4c500a89-6ee3-487b-b678-5b0140295775
+2026-03-18 16:29:34,939 - app.routes.commands - INFO - Command sent to device
+2026-03-18 16:30:00,782 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:30:00,783 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:30:30,772 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:30:30,776 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:31:00,785 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:31:00,785 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:31:30,782 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:31:30,785 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:32:00,800 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:32:00,802 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:32:30,797 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:32:30,799 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:33:00,804 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:33:00,806 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:33:30,823 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:33:30,824 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:34:00,839 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:34:00,839 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:34:30,849 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:34:30,851 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:35:00,857 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:35:00,859 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:35:30,862 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:35:30,863 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:36:00,862 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:36:00,864 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:36:30,862 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:36:30,863 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:37:00,862 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:37:00,863 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:37:30,862 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:37:30,864 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:37:52,511 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 16:37:52,511 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 16:37:52,511 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 16:37:52,514 - app.utils.auth - INFO - Token payload: None
+2026-03-18 16:37:52,514 - app.utils.auth - ERROR - Invalid or expired token
+2026-03-18 16:37:54,405 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 16:37:54,405 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 16:37:54,405 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 16:37:54,406 - app.utils.auth - INFO - Token payload: None
+2026-03-18 16:37:54,406 - app.utils.auth - ERROR - Invalid or expired token
+2026-03-18 16:37:55,066 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 16:37:55,067 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 16:37:55,067 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 16:37:55,067 - app.utils.auth - INFO - Token payload: None
+2026-03-18 16:37:55,067 - app.utils.auth - ERROR - Invalid or expired token
+2026-03-18 16:37:55,538 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 16:37:55,539 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 16:37:55,539 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 16:37:55,540 - app.utils.auth - INFO - Token payload: None
+2026-03-18 16:37:55,540 - app.utils.auth - ERROR - Invalid or expired token
+2026-03-18 16:37:55,862 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 16:37:55,862 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 16:37:55,863 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 16:37:55,863 - app.utils.auth - INFO - Token payload: None
+2026-03-18 16:37:55,863 - app.utils.auth - ERROR - Invalid or expired token
+2026-03-18 16:37:56,043 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 16:37:56,044 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 16:37:56,044 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 16:37:56,044 - app.utils.auth - INFO - Token payload: None
+2026-03-18 16:37:56,045 - app.utils.auth - ERROR - Invalid or expired token
+2026-03-18 16:37:56,198 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 16:37:56,198 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 16:37:56,198 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 16:37:56,198 - app.utils.auth - INFO - Token payload: None
+2026-03-18 16:37:56,198 - app.utils.auth - ERROR - Invalid or expired token
+2026-03-18 16:38:00,850 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:38:00,852 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:38:01,975 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 16:38:01,975 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 16:38:01,975 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 16:38:01,976 - app.utils.auth - INFO - Token payload: None
+2026-03-18 16:38:01,976 - app.utils.auth - ERROR - Invalid or expired token
+2026-03-18 16:38:03,087 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 16:38:03,087 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 16:38:03,087 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 16:38:03,088 - app.utils.auth - INFO - Token payload: None
+2026-03-18 16:38:03,088 - app.utils.auth - ERROR - Invalid or expired token
+2026-03-18 16:38:03,509 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 16:38:03,509 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 16:38:03,509 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 16:38:03,509 - app.utils.auth - INFO - Token payload: None
+2026-03-18 16:38:03,509 - app.utils.auth - ERROR - Invalid or expired token
+2026-03-18 16:38:03,679 - app.utils.auth - INFO - === AUTH DEPENDENCY CALLED ===
+2026-03-18 16:38:03,679 - app.utils.auth - INFO - Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR...
+2026-03-18 16:38:03,679 - app.utils.auth - INFO - Scheme: Bearer
+2026-03-18 16:38:03,680 - app.utils.auth - INFO - Token payload: None
+2026-03-18 16:38:03,680 - app.utils.auth - ERROR - Invalid or expired token
+2026-03-18 16:38:30,867 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:38:30,868 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:39:00,880 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:39:00,883 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
+2026-03-18 16:39:30,894 - app.services.websocket_manager - DEBUG - Message sent to device 7675992a-e0fd-420e-bb85-3620c5ac456f: heartbeat
+2026-03-18 16:39:30,896 - app.main - DEBUG - Heartbeat from device: 7675992a-e0fd-420e-bb85-3620c5ac456f
