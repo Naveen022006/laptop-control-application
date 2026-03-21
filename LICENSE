@@ -1,23 +1,225 @@
-PROPRIETARY LICENSE - NO USE OR COPYING PERMITTED
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+LAPTOP CONTROL SYSTEM - STRICT NO-USE LICENSE
 
 Copyright (c) 2026 Naveen K. All rights reserved.
 
-This project and all related source code, files, assets, documentation, and configuration are private and proprietary.
+================================================================================
+1. OWNERSHIP AND INTELLECTUAL PROPERTY
+================================================================================
 
-1. NO PERMISSION GRANTED
-No permission is granted to any person or organization to:
-- access, copy, download, clone, fork, mirror, archive, or redistribute this project;
-- use this project, in whole or in part, for any purpose;
-- modify, adapt, translate, reverse engineer, or create derivative works;
-- publish, disclose, sublicense, rent, lease, sell, or commercially exploit any part of this project.
+This project ("Software"), including all source code, binaries, documentation,
+graphics, audio, video, software tools, intellectual property, algorithms,
+trade secrets, and all associated materials, are the exclusive property of
+Naveen K (the "Owner"). All intellectual property rights, including but not
+limited to copyrights, patents, trademarks, and trade secrets, are retained
+by the Owner.
 
-2. NO PULL REQUESTS OR CONTRIBUTIONS
-External pull requests, patches, or contributions are not accepted unless the owner provides prior written authorization.
+================================================================================
+2. GRANT OF RIGHTS - STRICTLY LIMITED
+================================================================================
 
-3. NO IMPLIED RIGHTS
-No license or other right is granted by implication, estoppel, or otherwise.
+This Software is provided for reference purposes only to authorized personnel
+at the Owner's explicit discretion. Any rights to use this Software are
+strictly limited and granted solely at the Owner's written discretion. All
+rights not explicitly granted in writing are reserved by the Owner.
 
-4. ENFORCEMENT
-Any unauthorized access, use, copying, cloning, distribution, or modification is strictly prohibited and may result in legal action.
+================================================================================
+3. PROHIBITED ACTIVITIES
+================================================================================
 
-For permission requests, contact the owner in writing.
+You are STRICTLY PROHIBITED from:
+
+3.1 COPYING, CLONING, DOWNLOADING, AND DISTRIBUTION
+    - Cloning, forking, or copying this repository in any form
+    - Downloading, mirroring, or archiving any part of the Software
+    - Redistributing, sublicensing, or sharing the Software with others
+    - Creating derivative repositories or works based on this Software
+    - Publishing the Software on any platform or service
+
+3.2 USE AND EXECUTION
+    - Using, running, executing, or deploying the Software
+    - Using the Software for any commercial, educational, or personal purpose
+    - Integrating the Software into products, services, or applications
+    - Creating modified versions for private or public use
+
+3.3 MODIFICATION AND REVERSE ENGINEERING
+    - Modifying, adapting, translating, or creating derivative works
+    - Reverse engineering, decompiling, or disassembling the Software
+    - Analyzing, debugging, or testing the Software without authorization
+    - Creating patches, updates, or bug fixes
+
+3.4 PUBLIC DISCLOSURE
+    - Publishing, sharing, or disclosing any part of the Software
+    - Posting code snippets, documentation, or technical details online
+    - Sharing with colleagues, contractors, or third parties
+    - Including in portfolios, resumes, or public demonstrations
+
+3.5 COMMERCIAL EXPLOITATION
+    - Selling, renting, leasing, or licensing the Software
+    - Creating commercial services based on the Software
+    - Using the Software as a foundation for competing products
+    - Exploiting the Software for profit in any form
+
+================================================================================
+4. NO PULL REQUESTS OR EXTERNAL CONTRIBUTIONS
+================================================================================
+
+External pull requests, patches, bug reports, suggestions, and contributions
+are NOT ACCEPTED under any circumstances unless the Owner provides explicit
+written authorization. Submitting code or suggestions constitutes acceptance
+of these terms and grants no rights over the Software.
+
+================================================================================
+5. NO IMPLIED RIGHTS OR LICENSES
+================================================================================
+
+- No license, right, title, or interest is granted by implication, estoppel,
+  or any other legal theory
+- Possession of this Software does not grant any rights
+- No oral or written statements create any license or obligation
+- Access does not imply approval for use
+
+================================================================================
+6. CONFIDENTIALITY AND SECRECY
+================================================================================
+
+This Software and all associated materials are CONFIDENTIAL and contain trade
+secrets. You agree to:
+
+- Maintain strict confidentiality of all Software contents
+- Prevent disclosure to any third party
+- Use appropriate security measures to protect access
+- Return or destroy all copies upon request
+
+Breach of confidentiality may result in injunctive relief and damages.
+
+================================================================================
+7. PERMITTED ACCESS (LIMITED)
+================================================================================
+
+Access to the Software is permitted ONLY to:
+- The Owner (Naveen K)
+- Explicitly authorized individuals via written appointment
+- Development team members with signed agreements
+
+All other persons must request written permission before any access.
+
+================================================================================
+8. WARRANTY DISCLAIMER
+================================================================================
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+
+- Warranties of merchantability or fitness for a particular purpose
+- Warranties of accuracy, completeness, or non-infringement
+- Warranties that the Software will be uninterrupted or error-free
+
+THE OWNER MAKES NO REPRESENTATIONS OR WARRANTIES WHATSOEVER REGARDING THIS
+SOFTWARE. USE AT YOUR OWN RISK.
+
+================================================================================
+9. LIMITATION OF LIABILITY
+================================================================================
+
+IN NO EVENT SHALL THE OWNER BE LIABLE FOR:
+- Direct, indirect, incidental, special, or consequential damages
+- Loss of data, revenue, profit, or business opportunity
+- Any damages arising from unauthorized use or access
+- Costs of substitute goods or services
+
+This limitation applies regardless of the cause and even if advised of the
+possibility of such damages.
+
+================================================================================
+10. TERMINATION AND REVOCATION
+================================================================================
+
+This limited license may be revoked at any time without notice. Upon
+revocation, all rights cease immediately and you must:
+- Stop using the Software
+- Delete all copies in your possession
+- Certify compliance in writing
+
+================================================================================
+11. ENFORCEMENT AND LEGAL ACTION
+================================================================================
+
+Any unauthorized access, use, copying, cloning, distribution, or modification
+is a violation of this Agreement and applicable intellectual property laws.
+
+The Owner reserves the right to:
+- Pursue legal action and seek damages
+- Seek injunctive relief to prevent unauthorized use
+- Recover legal fees and court costs
+- Report violations to law enforcement
+
+Violations may result in:
+- Criminal prosecution under copyright and intellectual property laws
+- Civil liability and monetary damages
+- Injunctions preventing continued use
+- Other legal remedies available under law
+
+================================================================================
+12. THIRD-PARTY COMPONENTS
+================================================================================
+
+This Software may include third-party libraries or dependencies. Their
+inclusion does not grant license rights to this Software as a whole. Each
+third-party component is governed by its own license terms.
+
+================================================================================
+13. DATA AND SECURITY
+================================================================================
+
+- No warranty is provided regarding data security or privacy
+- The Owner is not responsible for data loss or unauthorized access
+- Users are solely responsible for securing their systems
+- No liability for any security breaches or data compromise
+
+================================================================================
+14. SEVERABILITY
+================================================================================
+
+If any provision of this Agreement is invalid or unenforceable, all other
+provisions remain in full force and effect. The invalid provision shall be
+reformed to the minimum extent necessary for validity.
+
+================================================================================
+15. ENTIRE AGREEMENT
+================================================================================
+
+This Agreement constitutes the entire agreement regarding the Software and
+supersedes all prior understandings, agreements, and communications. No
+modification is valid unless in writing and signed by the Owner.
+
+================================================================================
+16. GOVERNING LAW AND JURISDICTION
+================================================================================
+
+This Agreement is governed by and construed in accordance with applicable
+law. All disputes shall be resolved in the exclusive jurisdiction of the
+Owner's chosen venue.
+
+================================================================================
+17. CONTACT AND PERMISSION REQUESTS
+================================================================================
+
+For any permission requests or authorization inquiries, contact the Owner
+directly in writing. All requests are at the sole discretion of the Owner.
+
+No permission is implied or assumed based on any prior dealings or conduct.
+
+================================================================================
+
+LAST UPDATED: March 21, 2026
+EFFECTIVE DATE: March 21, 2026
+
+By accessing, viewing, or possessing this Software, you acknowledge that you
+have read, understood, and agree to be bound by all terms and conditions of
+this License Agreement.
+
+If you do not agree with these terms, you must immediately cease accessing
+and possessing this Software and delete all copies.
+
+================================================================================
