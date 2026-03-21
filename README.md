@@ -25,6 +25,8 @@ This is a Python-based Discord bot designed to execute commands on your laptop r
 Make sure your Discord bot token is properly set in the `.env` file within this directory:
 ```env
 DISCORD_TOKEN=your_bot_token_here
+
+AUTHORIZED_USERS=your_user_id_here
 ```
 
 ## Available Commands (Apple Music)
