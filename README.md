@@ -22,15 +22,19 @@ This is a Python-based Discord bot designed to execute commands on your laptop r
 
 ## Configuration
 
-Make sure your Discord bot token is properly set in the `.env` file within this directory:
+Make sure your Discord bot token and other credentials are properly set in the `.env` file within this directory:
+
 ```env
 DISCORD_TOKEN=your_bot_token_here
-
 AUTHORIZED_USERS=your_user_id_here
 ```
 
-## Available Commands (Apple Music)
-- `!play <song name>`: Searches and plays a song in Apple Music.
-- `!pause_music`: Pauses/Resumes Apple Music.
-- `!stop_music`: Stops the current track.
-- `!next` / `!prev`: Skips tracks.
+## Available Commands
+
+For a complete list of all available commands, see [commands.md](commands.md).
+
+**Quick Examples:**
+- `!speak "Hello"` - Make the laptop speak
+- `!screenshot` - Take a screenshot
+- `!sysinfo` - Get system information
+- **And 25+ more commands!**
